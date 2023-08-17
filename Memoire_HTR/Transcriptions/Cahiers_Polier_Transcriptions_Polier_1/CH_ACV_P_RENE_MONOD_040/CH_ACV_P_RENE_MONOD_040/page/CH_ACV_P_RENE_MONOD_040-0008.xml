@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Polier_v2(htr_id=42646)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-03-22T14:01:50.588+01:00</Created>
+        <LastChange>2022-07-04T13:39:00.482+02:00</LastChange>
+        <TranskribusMetadata docId="951956" pageId="37016751" pageNr="8" tsid="90107953" status="GT" userId="115119" imgUrl="https://files.transkribus.eu/Get?id=ZKIJUHSNYOCFUIWXQAOTNZBA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HENPHUVRZWFUOPQOKUSZMFAJ" imageId="29859431"/>
+    </Metadata>
+    <Page imageFilename="CH_ACV_P_RENE_MONOD_040-0008.jpg" imageWidth="4562" imageHeight="3294">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1664895277740" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="330,213 330,2763 2181,2763 2181,213"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="321,316 355,313 360,318 367,313 386,325 409,305 417,312 439,306 432,197 416,202 398,194 375,203 368,196 355,209 348,207 329,220 315,218"/>
+                <Baseline points="330,278 362,281 394,282 426,269"/>
+                <TextEquiv>
+                    <Unicode>12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="412,371 749,408 852,360 1675,397 2106,354 2069,223 1930,301 1667,229 1167,216 908,298 733,306 609,233 410,269"/>
+                <Baseline points="423,359 506,359 590,359 673,359 757,357 840,357 924,356 1007,354 1091,353 1174,351 1258,348 1342,347 1425,345 1509,342 1592,341 1676,339 1759,336 1843,335 1926,333 2010,332 2094,330"/>
+                <TextEquiv>
+                    <Unicode>Caractere de la Charités 1° Elle desinté-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="391,504 906,469 1055,533 1197,475 1304,517 1435,439 2103,443 2037,328 1811,405 389,399"/>
+                <Baseline points="402,461 486,462 570,464 655,464 739,464 824,464 908,462 993,461 1077,459 1162,458 1246,456 1330,453 1415,452 1499,449 1584,447 1668,444 1753,443 1837,441 1922,439 2006,438 2091,437"/>
+                <TextEquiv>
+                    <Unicode>ressée dans son principe, 2° universelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="387,577 1334,630 1436,568 1715,553 1859,631 2003,533 2142,530 2127,475 1271,523 1191,475 1045,538 904,469 797,541 386,539"/>
+                <Baseline points="399,578 485,578 572,578 658,576 745,576 831,575 918,575 1004,573 1091,571 1177,570 1264,567 1351,564 1437,562 1524,559 1610,555 1697,552 1783,548 1870,543 1956,537 2043,532 2130,527"/>
+                <TextEquiv>
+                    <Unicode>dans son objet, 3° active dans ses effets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="376,715 676,697 931,748 1132,680 1544,706 1654,667 1700,705 1752,695 1750,558 1522,638 1042,630 912,569 686,629 374,594"/>
+                <Baseline points="387,680 454,683 522,686 589,688 657,689 725,690 792,689 860,689 928,687 995,686 1063,684 1131,681 1198,680 1266,677 1334,674 1401,672 1469,669 1537,666 1604,664 1672,662 1740,659"/>
+                <TextEquiv>
+                    <Unicode>4 soutenue dans son exercice,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="379,815 539,841 658,770 794,848 1044,789 1888,823 2146,775 2143,662 1909,636 1701,705 1655,665 955,751 642,697 378,738"/>
+                <Baseline points="390,812 477,809 564,806 651,804 739,802 826,800 913,798 1000,797 1088,795 1175,794 1262,792 1349,791 1437,789 1524,786 1611,783 1698,782 1786,779 1873,775 1960,770 2047,766 2135,761"/>
+                <TextEquiv>
+                    <Unicode>Motifs J.X. est notre Chef, notre Maître</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="396,914 638,948 884,908 967,950 1540,884 1842,954 1839,823 1777,801 1678,842 1625,802 1175,802 1072,857 909,803 802,856 654,770 547,843 394,835"/>
+                <Baseline points="408,911 479,914 550,915 621,917 692,917 763,917 834,916 905,915 976,914 1047,912 1118,909 1189,908 1260,905 1331,903 1402,900 1473,899 1544,896 1615,894 1686,893 1757,891 1829,890"/>
+                <TextEquiv>
+                    <Unicode>notre bienfaiteur &amp; notre juge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="391,1043 648,1040 750,1078 916,1045 1004,1070 1136,1028 1268,1050 1333,1034 1333,900 972,997 886,977 827,1014 629,990 463,911 390,934"/>
+                <Baseline points="402,1025 448,1026 494,1027 540,1028 586,1029 632,1029 678,1029 724,1030 770,1031 816,1029 862,1029 908,1029 954,1029 1000,1028 1046,1028 1092,1026 1138,1026 1184,1025 1230,1023 1276,1023 1323,1022"/>
+                <TextEquiv>
+                    <Unicode>Aumones, = 4 sols;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="375,1196 1099,1159 1257,1239 1526,1141 1945,1173 1943,1062 1863,1029 1473,1115 1261,1046 1132,1089 857,1052 722,1129 509,1039 374,1107"/>
+                <Baseline points="386,1164 463,1164 540,1164 617,1164 695,1164 772,1163 849,1163 927,1161 1004,1160 1081,1160 1159,1158 1236,1156 1313,1155 1390,1152 1468,1151 1545,1149 1622,1148 1700,1146 1777,1145 1854,1145 1932,1143"/>
+                <TextEquiv>
+                    <Unicode>Beau soleil tout le jour, Chaleur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="399,1316 667,1291 806,1338 956,1287 1065,1334 1194,1301 1278,1323 1330,1284 1483,1301 1482,1198 1443,1183 1253,1243 1145,1176 998,1202 839,1174 662,1221 557,1181 398,1201"/>
+                <Baseline points="411,1301 466,1295 522,1290 578,1287 633,1285 689,1284 745,1283 801,1283 856,1283 912,1283 968,1283 1024,1284 1079,1284 1135,1285 1191,1286 1247,1286 1302,1284 1358,1284 1414,1281 1470,1278"/>
+                <TextEquiv>
+                    <Unicode>Bar. 26/ 1/2 Therm: 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="451,1447 687,1411 803,1452 907,1412 1012,1491 1238,1399 1527,1461 1568,1441 1567,1305 1342,1288 1213,1354 1004,1310 797,1338 731,1295 648,1330 450,1322"/>
+                <Baseline points="462,1407 516,1409 571,1410 626,1412 681,1412 735,1413 790,1413 845,1413 900,1413 954,1413 1009,1413 1064,1413 1119,1412 1173,1412 1228,1410 1283,1409 1338,1408 1392,1407 1447,1406 1502,1404 1557,1403"/>
+                <TextEquiv>
+                    <Unicode>Vû le Baron de Pôolnitz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="435,1522 679,1602 889,1522 2032,1537 2035,1430 1824,1393 1645,1456 1370,1422 1011,1487 724,1422 434,1447"/>
+                <Baseline points="446,1503 529,1509 612,1514 695,1517 778,1519 861,1520 944,1520 1027,1520 1110,1518 1193,1517 1277,1515 1360,1514 1443,1511 1526,1509 1609,1506 1692,1505 1775,1503 1858,1502 1941,1502 2025,1502"/>
+                <TextEquiv>
+                    <Unicode>Les Epoux du 5 juillesl rentrés; Vu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} textStyle {offset:21; length:4;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="391,1681 1408,1642 1561,1719 1716,1642 2135,1647 2170,1582 1838,1542 1616,1600 1133,1524 887,1599 748,1564 653,1618 536,1527 389,1586"/>
+                <Baseline points="402,1650 489,1652 577,1652 665,1652 753,1652 841,1652 929,1650 1017,1650 1105,1649 1193,1647 1281,1646 1368,1644 1456,1642 1544,1640 1632,1638 1720,1635 1808,1634 1896,1632 1984,1629 2072,1628 2160,1626"/>
+                <TextEquiv>
+                    <Unicode>Lundi 31: Conférence chez au Chateau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="428,1766 1764,1785 1931,1727 2082,1779 2116,1649 1741,1649 1592,1718 1098,1645 427,1719"/>
+                <Baseline points="438,1752 521,1752 604,1754 688,1754 771,1754 855,1754 938,1754 1021,1754 1105,1754 1188,1752 1272,1751 1355,1749 1438,1748 1522,1745 1605,1743 1689,1740 1772,1736 1855,1733 1939,1728 2022,1725 2106,1719"/>
+                <TextEquiv>
+                    <Unicode>concernant les Contestations de la Cour.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="415,1900 925,1849 1515,1910 1591,1861 1936,1874 2060,1829 2059,1779 1931,1727 1751,1796 1618,1749 1476,1802 1384,1753 1022,1827 864,1750 412,1775"/>
+                <Baseline points="425,1860 506,1860 587,1860 668,1860 749,1859 831,1859 912,1859 993,1857 1074,1856 1155,1856 1237,1854 1318,1853 1399,1850 1480,1848 1561,1845 1643,1844 1724,1841 1805,1837 1886,1834 1967,1831 2049,1826"/>
+                <TextEquiv>
+                    <Unicode>Baillivale avec les Paroisses de Cully</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="455,1994 679,2038 764,1981 1043,1968 1812,2002 1908,1962 2060,1947 2057,1836 1673,1910 1185,1860 1116,1905 860,1862 452,1905"/>
+                <Baseline points="465,1976 544,1976 623,1975 702,1974 781,1973 861,1971 940,1970 1019,1968 1098,1967 1177,1964 1257,1962 1336,1961 1415,1958 1494,1955 1573,1952 1653,1949 1732,1946 1811,1943 1890,1940 1969,1937 2049,1934"/>
+                <TextEquiv>
+                    <Unicode>&amp; Luty; les Ban. Clavel &amp; d'Orges, le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="477,2104 690,2079 790,2158 886,2095 1610,2076 1800,2135 1957,2055 2101,2065 2160,1952 2001,1981 1900,1935 1721,2040 1417,1962 1296,2020 1113,1972 944,2044 475,2009"/>
+                <Baseline points="488,2078 571,2076 654,2076 737,2076 820,2075 903,2075 986,2073 1069,2073 1152,2072 1235,2070 1319,2068 1402,2066 1485,2064 1568,2061 1651,2059 1734,2057 1817,2053 1900,2050 1983,2046 2066,2042 2150,2037"/>
+                <TextEquiv>
+                    <Unicode>St. Megroz; Mr. de Brenles a fait un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="459,2256 836,2185 1368,2192 1465,2258 1586,2185 2059,2198 2192,2149 2190,2076 1980,2134 1125,2082 456,2142"/>
+                <Baseline points="468,2193 553,2193 639,2192 724,2192 810,2190 896,2189 981,2188 1067,2186 1153,2184 1238,2183 1324,2180 1410,2178 1495,2175 1581,2174 1667,2170 1752,2168 1838,2165 1924,2162 2009,2157 2095,2154 2181,2151"/>
+                <TextEquiv>
+                    <Unicode>projet de Conciliation, qui est remis aux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="487,2325 1963,2313 1979,2190 1467,2260 827,2193 485,2250"/>
+                <Baseline points="498,2301 571,2304 645,2306 718,2306 792,2306 865,2306 939,2306 1012,2304 1086,2303 1159,2301 1233,2298 1306,2296 1380,2294 1453,2292 1527,2289 1600,2288 1674,2285 1747,2283 1821,2282 1894,2280 1968,2280"/>
+                <TextEquiv>
+                    <Unicode>parties; On m'en donne un double;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="507,2434 583,2413 630,2432 671,2419 757,2425 774,2411 821,2421 879,2372 908,2377 909,2334 847,2347 827,2333 809,2346 728,2313 630,2330 546,2301 510,2309"/>
+                <Baseline points="519,2396 544,2398 569,2400 594,2402 619,2404 645,2405 670,2406 695,2407 720,2408 745,2408 771,2408 796,2406 821,2406 846,2405 871,2403 897,2402"/>
+                <TextEquiv>
+                    <Unicode>Diné ditò</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="499,2573 588,2587 700,2508 1269,2553 1400,2510 1523,2573 1629,2509 2040,2524 2069,2373 1935,2356 1773,2448 1517,2384 1409,2432 1320,2379 1162,2432 854,2395 496,2444"/>
+                <Baseline points="510,2502 587,2504 665,2505 742,2507 820,2507 897,2507 975,2505 1052,2504 1130,2502 1207,2501 1285,2499 1363,2496 1440,2495 1518,2492 1595,2490 1673,2487 1750,2486 1828,2483 1905,2481 1983,2480 2061,2478"/>
+                <TextEquiv>
+                    <Unicode>Payé à Mr. de Gentils pour 2 Int.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="522,2614 1579,2656 1690,2595 1754,2642 2142,2596 2140,2499 1397,2507 1267,2576 1175,2512 850,2513 522,2598"/>
+                <Baseline points="534,2616 613,2613 693,2609 773,2607 853,2606 932,2606 1012,2605 1092,2606 1172,2606 1251,2606 1331,2606 1411,2606 1491,2606 1570,2604 1650,2603 1730,2600 1810,2597 1889,2592 1969,2584 2049,2577 2129,2567"/>
+                <TextEquiv>
+                    <Unicode>échus les 5 7bre 1766 &amp; 1767; de 3000++</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="504,2737 1265,2750 1404,2813 1638,2812 1845,2736 2103,2746 2103,2633 1976,2681 1689,2596 1613,2666 1519,2624 1317,2690 1201,2625 927,2688 731,2620 504,2683"/>
+                <Baseline points="515,2718 593,2723 672,2726 751,2729 830,2732 909,2733 988,2735 1067,2735 1146,2735 1225,2735 1304,2735 1382,2733 1461,2732 1540,2730 1619,2729 1698,2727 1777,2726 1856,2723 1935,2721 2014,2720 2093,2718"/>
+                <TextEquiv>
+                    <Unicode>= L. 210: = 15 Louïs neufs; Quittance;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>12
+Caractere de la Charités 1° Elle desinté-
+ressée dans son principe, 2° universelle
+dans son objet, 3° active dans ses effets
+4 soutenue dans son exercice,
+Motifs J.X. est notre Chef, notre Maître
+notre bienfaiteur &amp; notre juge
+Aumones, = 4 sols;
+Beau soleil tout le jour, Chaleur,
+Bar. 26/ 1/2 Therm: 15
+Vû le Baron de Pôolnitz
+Les Epoux du 5 juillesl rentrés; Vu-
+Lundi 31: Conférence chez au Chateau
+concernant les Contestations de la Cour.
+Baillivale avec les Paroisses de Cully
+&amp; Luty; les Ban. Clavel &amp; d'Orges, le
+St. Megroz; Mr. de Brenles a fait un
+projet de Conciliation, qui est remis aux
+parties; On m'en donne un double;
+Diné ditò
+Payé à Mr. de Gentils pour 2 Int.
+échus les 5 7bre 1766 &amp; 1767; de 3000++
+= L. 210: = 15 Louïs neufs; Quittance;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2423,247 2423,2870 4254,2870 4254,247"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="4081,366 4097,365 4110,373 4131,366 4151,371 4171,361 4184,360 4193,368 4234,363 4247,234 4235,233 4212,214 4200,225 4184,221 4172,231 4148,222 4111,246 4093,242"/>
+                <Baseline points="4098,302 4123,302 4149,305 4175,308 4201,312 4227,311"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="2438,375 3363,378 3586,437 3651,382 4071,365 4070,228 3861,217 3676,312 3555,233 3338,206 3116,255 3021,206 2876,260 2639,223 2437,280"/>
+                <Baseline points="2450,353 2530,359 2610,364 2691,367 2771,369 2852,369 2932,371 3013,369 3093,368 3174,366 3254,365 3334,363 3415,360 3495,359 3576,356 3656,354 3737,353 3817,353 3898,353 3978,354 4059,357"/>
+                <TextEquiv>
+                    <Unicode>Le Compte du ménage pr le mois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="2459,493 2795,525 2934,497 3222,541 3354,479 3614,509 3616,391 3409,416 3171,377 3084,437 3009,441 2860,369 2762,415 2460,373"/>
+                <Baseline points="2471,467 2521,473 2571,477 2621,480 2671,483 2721,485 2771,486 2821,488 2871,488 2921,488 2971,488 3021,488 3071,486 3121,486 3171,486 3221,486 3271,486 3321,486 3371,487 3421,488 3471,489"/>
+                <TextEquiv>
+                    <Unicode>d Août = 14++ 16:,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2427,642 3781,608 3969,679 4112,604 4264,618 4264,541 3851,454 3286,562 2981,505 2427,538"/>
+                <Baseline points="2438,593 2528,597 2619,601 2710,604 2801,607 2892,609 2982,611 3073,612 3164,614 3255,614 3346,614 3436,614 3527,612 3618,612 3709,611 3800,609 3890,608 3981,606 4072,603 4163,602 4254,599"/>
+                <TextEquiv>
+                    <Unicode>Lu le procès du Roi de Prusse contre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="2439,749 2922,732 3172,802 3277,732 3817,733 3979,778 4169,730 4169,657 2438,636"/>
+                <Baseline points="2450,711 2535,713 2620,714 2706,716 2791,716 2876,717 2962,717 3047,719 3132,719 3218,719 3303,719 3388,719 3474,719 3559,717 3644,717 3730,716 3815,714 3900,713 3986,711 4071,710 4157,707"/>
+                <TextEquiv>
+                    <Unicode>la Ville de Neufchatel, commencée le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2437,914 2719,826 3044,888 4063,862 4158,814 4158,730 3699,782 3384,732 3175,803 2897,737 2437,759"/>
+                <Baseline points="2448,827 2532,827 2617,827 2702,827 2787,827 2872,828 2957,828 3042,830 3127,830 3212,830 3297,830 3381,830 3466,830 3551,830 3636,828 3721,827 3806,825 3891,822 3976,819 4061,815 4146,812"/>
+                <TextEquiv>
+                    <Unicode>21 juin dernier à Berne; sur 8 arti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="2445,994 3053,937 3338,1019 3512,938 3783,1023 3978,1005 4170,936 4170,824 4041,889 3804,836 3503,911 3148,848 2789,903 2580,839 2444,917"/>
+                <Baseline points="2456,936 2541,936 2626,938 2711,939 2796,941 2882,941 2967,942 3052,942 3137,944 3222,944 3308,944 3393,942 3478,942 3563,941 3648,939 3734,936 3819,933 3904,931 3989,928 4074,923 4160,918"/>
+                <TextEquiv>
+                    <Unicode>cles dont le Roi demande le recens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2448,1044 2560,1091 2950,1050 3007,1104 3089,1049 3409,1055 3582,1114 3754,1046 3936,1132 4234,1065 4215,961 3786,1025 3511,939 3339,1019 3052,938 2448,996"/>
+                <Baseline points="2460,1049 2548,1049 2636,1049 2724,1049 2812,1050 2900,1052 2988,1052 3077,1053 3165,1055 3253,1056 3341,1056 3429,1056 3517,1058 3605,1056 3694,1056 3782,1055 3870,1052 3958,1049 4046,1045 4134,1040 4223,1034"/>
+                <TextEquiv>
+                    <Unicode>sement; la Ville a fait une exception</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2438,1202 2749,1174 2892,1219 2956,1173 3591,1149 3896,1226 4121,1150 4104,1097 3930,1133 3795,1077 3609,1129 3372,1049 3151,1135 2437,1084"/>
+                <Baseline points="2448,1164 2531,1165 2614,1166 2697,1166 2780,1166 2863,1166 2946,1166 3029,1166 3112,1166 3195,1166 3279,1164 3362,1164 3445,1163 3528,1163 3611,1161 3694,1160 3777,1158 3860,1157 3943,1154 4026,1152 4110,1151"/>
+                <TextEquiv>
+                    <Unicode>dilatoire, aux articles 1 5: 6: 7:,, sur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="2448,1319 2546,1369 2628,1318 2891,1354 3063,1285 3825,1315 4076,1281 4075,1154 3792,1245 3321,1165 2956,1172 2893,1218 2749,1176 2618,1243 2447,1199"/>
+                <Baseline points="2460,1283 2540,1282 2620,1281 2700,1281 2780,1281 2861,1281 2941,1281 3021,1281 3101,1281 3181,1281 3262,1281 3342,1281 3422,1281 3502,1280 3582,1279 3663,1277 3743,1275 3823,1273 3903,1271 3983,1266 4064,1262"/>
+                <TextEquiv>
+                    <Unicode>laquelle elle à été condamnée avec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="2430,1444 3298,1400 3528,1477 3777,1386 4229,1411 4228,1266 3479,1334 3322,1283 3177,1351 3051,1286 2804,1359 2429,1328"/>
+                <Baseline points="2442,1389 2530,1392 2619,1395 2708,1397 2797,1398 2886,1400 2974,1400 3063,1398 3152,1398 3241,1397 3330,1395 3418,1394 3507,1392 3596,1389 3685,1388 3774,1386 3862,1385 3951,1383 4040,1382 4129,1382 4218,1382"/>
+                <TextEquiv>
+                    <Unicode>dépens au Senat; Elle a appellé en CC.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="2497,1552 3360,1613 3544,1532 3802,1601 3987,1507 4104,1591 4221,1543 4218,1402 4125,1381 3899,1447 3792,1413 3725,1476 3221,1486 2969,1410 2864,1492 2608,1429 2496,1483"/>
+                <Baseline points="2507,1523 2592,1527 2677,1530 2762,1533 2847,1535 2932,1535 3017,1535 3102,1535 3187,1533 3272,1532 3357,1529 3442,1526 3527,1523 3612,1520 3697,1516 3782,1513 3867,1509 3952,1506 4037,1503 4122,1500 4208,1497"/>
+                <TextEquiv>
+                    <Unicode>Marion Sechaud = 1j. à 3 batz 3 Crutz;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="2413,1707 3041,1672 3353,1729 3538,1649 3616,1696 3684,1645 4136,1638 4135,1586 3896,1541 3758,1607 3603,1530 3361,1613 3096,1546 2411,1591"/>
+                <Baseline points="2423,1658 2508,1658 2593,1656 2678,1656 2763,1656 2848,1655 2933,1655 3018,1654 3103,1653 3188,1652 3274,1650 3359,1650 3444,1649 3529,1647 3614,1645 3699,1643 3784,1641 3869,1639 3954,1637 4039,1634 4125,1631"/>
+                <TextEquiv>
+                    <Unicode>Beau soleil le matin; Couvert le soir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="2438,1845 2702,1773 2985,1833 3329,1781 3396,1825 3472,1770 3582,1839 3943,1834 4063,1750 4145,1763 4103,1700 3782,1638 3617,1697 3496,1656 3336,1740 3005,1669 2958,1711 2696,1664 2436,1702"/>
+                <Baseline points="2448,1770 2532,1770 2616,1770 2700,1772 2785,1770 2869,1770 2953,1770 3038,1769 3122,1768 3206,1767 3291,1766 3375,1764 3459,1763 3543,1761 3628,1760 3712,1757 3796,1756 3881,1754 3965,1752 4049,1751 4134,1749"/>
+                <TextEquiv>
+                    <Unicode>Girouette Sud-ouest assez fort, pluye à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="2416,1901 2645,1910 2801,1978 3276,1880 3506,1895 3591,1946 3736,1927 3735,1831 3662,1805 3421,1853 3328,1784 3151,1833 3082,1798 2949,1847 2687,1777 2504,1850 2415,1833"/>
+                <Baseline points="2427,1892 2491,1895 2556,1896 2621,1898 2686,1898 2751,1898 2815,1896 2880,1896 2945,1893 3010,1892 3075,1890 3139,1887 3204,1886 3269,1884 3334,1884 3399,1883 3463,1883 3528,1884 3593,1886 3658,1889 3723,1893"/>
+                <TextEquiv>
+                    <Unicode>8 h. Bar 26 1/2; Therm: 15:,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="2415,2035 2743,2060 3019,2003 3295,2078 3503,2000 4071,2020 4182,1980 4181,1912 3961,1959 3842,1881 3688,1958 3364,1970 3226,1888 2812,1979 2552,1902 2414,1970"/>
+                <Baseline points="2427,2015 2514,2014 2601,2013 2688,2013 2775,2013 2862,2013 2949,2012 3037,2012 3124,2012 3211,2010 3298,2010 3385,2009 3472,2007 3559,2006 3647,2004 3734,2001 3821,1998 3908,1995 3995,1991 4082,1986 4170,1982"/>
+                <TextEquiv>
+                    <Unicode>Le Banneret d’Orges dit qu'il y a eu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="2452,2129 2637,2189 2906,2133 3007,2195 3392,2102 3629,2191 3740,2115 4144,2106 4235,2155 4235,2048 3941,2009 3503,2001 3372,2088 3019,2002 2733,2077 2452,2061"/>
+                <Baseline points="2463,2115 2551,2115 2639,2114 2727,2114 2815,2114 2903,2114 2991,2114 3079,2114 3167,2115 3255,2115 3343,2115 3431,2114 3519,2114 3607,2114 3695,2112 3783,2111 3871,2109 3959,2107 4047,2103 4135,2100 4224,2097"/>
+                <TextEquiv>
+                    <Unicode>une petite Grêle à Cully le 21: d'août;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="2448,2270 3679,2311 4233,2267 4233,2217 4052,2155 3707,2159 3602,2236 3507,2190 3309,2226 3137,2148 2828,2205 2448,2165"/>
+                <Baseline points="2460,2268 2548,2263 2636,2259 2724,2256 2812,2256 2900,2255 2988,2256 3077,2258 3165,2259 3253,2261 3341,2262 3429,2264 3517,2266 3605,2267 3694,2268 3782,2267 3870,2267 3958,2264 4046,2261 4134,2255 4223,2249"/>
+                <TextEquiv>
+                    <Unicode>Mardi 1er 7bre Recû de Jean Bary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="2436,2398 2545,2449 2606,2388 2817,2380 2938,2459 3047,2386 3324,2387 3399,2450 3621,2372 3692,2426 4003,2437 4137,2391 4136,2250 3996,2332 3857,2280 3228,2340 3032,2275 2435,2316"/>
+                <Baseline points="2448,2381 2531,2381 2615,2380 2699,2379 2783,2378 2867,2378 2951,2376 3034,2376 3118,2375 3202,2375 3286,2373 3370,2373 3454,2373 3538,2372 3621,2372 3705,2373 3789,2373 3873,2373 3957,2375 4041,2376 4125,2378"/>
+                <TextEquiv>
+                    <Unicode>2 quart. Messel à compte 17L7 pessé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="2527,2576 2710,2491 2882,2487 3112,2539 3334,2484 3689,2488 3750,2533 3836,2495 3919,2558 4037,2547 4035,2434 3937,2405 3872,2440 3521,2383 3404,2455 3174,2390 2939,2459 2608,2386 2525,2446"/>
+                <Baseline points="2537,2493 2611,2493 2685,2492 2760,2492 2834,2492 2909,2490 2983,2490 3057,2490 3132,2489 3206,2489 3281,2487 3355,2486 3429,2486 3504,2484 3578,2483 3653,2481 3727,2480 3801,2479 3876,2478 3950,2475 4025,2474"/>
+                <TextEquiv>
+                    <Unicode>Quittance; Marion Sechaud = 1j.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="2582,2627 3413,2657 3835,2614 4011,2666 4169,2608 4168,2517 3951,2569 3682,2490 3305,2560 3221,2495 3071,2538 2884,2488 2581,2548"/>
+                <Baseline points="2592,2612 2670,2615 2748,2618 2826,2621 2905,2622 2983,2624 3061,2625 3140,2625 3218,2627 3296,2625 3375,2625 3453,2624 3531,2622 3609,2621 3688,2618 3766,2616 3844,2612 3923,2609 4001,2604 4079,2600 4158,2595"/>
+                <TextEquiv>
+                    <Unicode>Couvert tout le jour, Petite pluye par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="2463,2732 2808,2731 2933,2804 3099,2724 3562,2716 3662,2777 4073,2726 4073,2633 3401,2671 2896,2627 2463,2694"/>
+                <Baseline points="2475,2721 2554,2721 2633,2721 2713,2721 2792,2721 2871,2720 2951,2720 3030,2720 3109,2718 3189,2718 3268,2718 3347,2718 3427,2717 3506,2717 3585,2717 3665,2717 3744,2717 3823,2717 3903,2718 3982,2718 4062,2720"/>
+                <TextEquiv>
+                    <Unicode>intervalles; Girouette au Vent, Bar. 26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="2669,2886 2737,2896 2814,2846 2827,2854 2864,2846 2926,2882 2983,2873 2987,2784 2929,2807 2838,2754 2802,2746 2673,2782"/>
+                <Baseline points="2682,2831 2708,2834 2734,2837 2761,2839 2787,2840 2814,2841 2840,2843 2867,2843 2893,2843 2920,2843 2946,2843 2973,2843"/>
+                <TextEquiv>
+                    <Unicode>Therm :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13
+Le Compte du ménage pr le mois
+d Août = 14++ 16:,,
+Lu le procès du Roi de Prusse contre
+la Ville de Neufchatel, commencée le
+21 juin dernier à Berne; sur 8 arti-
+cles dont le Roi demande le recens.
+sement; la Ville a fait une exception
+dilatoire, aux articles 1 5: 6: 7:,, sur
+laquelle elle à été condamnée avec
+dépens au Senat; Elle a appellé en CC.
+Marion Sechaud = 1j. à 3 batz 3 Crutz;
+Beau soleil le matin; Couvert le soir.
+Girouette Sud-ouest assez fort, pluye à
+8 h. Bar 26 1/2; Therm: 15:,,
+Le Banneret d’Orges dit qu'il y a eu
+une petite Grêle à Cully le 21: d'août;
+Mardi 1er 7bre Recû de Jean Bary
+2 quart. Messel à compte 17L7 pessé
+Quittance; Marion Sechaud = 1j.
+Couvert tout le jour, Petite pluye par
+intervalles; Girouette au Vent, Bar. 26
+Therm :</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

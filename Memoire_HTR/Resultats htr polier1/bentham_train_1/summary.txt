@@ -1,0 +1,89 @@
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ input (InputLayer)          [(None, 1024, 128, 1)]    0         
+                                                                 
+ conv2d (Conv2D)             (None, 512, 64, 16)       160       
+                                                                 
+ p_re_lu (PReLU)             (None, 512, 64, 16)       16        
+                                                                 
+ batch_normalization (BatchN  (None, 512, 64, 16)      112       
+ ormalization)                                                   
+                                                                 
+ full_gated_conv2d (FullGate  (None, 512, 64, 16)      4640      
+ dConv2D)                                                        
+                                                                 
+ conv2d_1 (Conv2D)           (None, 512, 64, 32)       4640      
+                                                                 
+ p_re_lu_1 (PReLU)           (None, 512, 64, 32)       32        
+                                                                 
+ batch_normalization_1 (Batc  (None, 512, 64, 32)      224       
+ hNormalization)                                                 
+                                                                 
+ full_gated_conv2d_1 (FullGa  (None, 512, 64, 32)      18496     
+ tedConv2D)                                                      
+                                                                 
+ conv2d_2 (Conv2D)           (None, 256, 16, 40)       10280     
+                                                                 
+ p_re_lu_2 (PReLU)           (None, 256, 16, 40)       40        
+                                                                 
+ batch_normalization_2 (Batc  (None, 256, 16, 40)      280       
+ hNormalization)                                                 
+                                                                 
+ full_gated_conv2d_2 (FullGa  (None, 256, 16, 40)      28880     
+ tedConv2D)                                                      
+                                                                 
+ dropout (Dropout)           (None, 256, 16, 40)       0         
+                                                                 
+ conv2d_3 (Conv2D)           (None, 256, 16, 48)       17328     
+                                                                 
+ p_re_lu_3 (PReLU)           (None, 256, 16, 48)       48        
+                                                                 
+ batch_normalization_3 (Batc  (None, 256, 16, 48)      336       
+ hNormalization)                                                 
+                                                                 
+ full_gated_conv2d_3 (FullGa  (None, 256, 16, 48)      41568     
+ tedConv2D)                                                      
+                                                                 
+ dropout_1 (Dropout)         (None, 256, 16, 48)       0         
+                                                                 
+ conv2d_4 (Conv2D)           (None, 128, 4, 56)        21560     
+                                                                 
+ p_re_lu_4 (PReLU)           (None, 128, 4, 56)        56        
+                                                                 
+ batch_normalization_4 (Batc  (None, 128, 4, 56)       392       
+ hNormalization)                                                 
+                                                                 
+ full_gated_conv2d_4 (FullGa  (None, 128, 4, 56)       56560     
+ tedConv2D)                                                      
+                                                                 
+ dropout_2 (Dropout)         (None, 128, 4, 56)        0         
+                                                                 
+ conv2d_5 (Conv2D)           (None, 128, 4, 64)        32320     
+                                                                 
+ p_re_lu_5 (PReLU)           (None, 128, 4, 64)        64        
+                                                                 
+ batch_normalization_5 (Batc  (None, 128, 4, 64)       448       
+ hNormalization)                                                 
+                                                                 
+ max_pooling2d (MaxPooling2D  (None, 128, 2, 64)       0         
+ )                                                               
+                                                                 
+ reshape (Reshape)           (None, 128, 128)          0         
+                                                                 
+ bidirectional (Bidirectiona  (None, 128, 256)         198144    
+ l)                                                              
+                                                                 
+ dense (Dense)               (None, 128, 256)          65792     
+                                                                 
+ bidirectional_1 (Bidirectio  (None, 128, 256)         296448    
+ nal)                                                            
+                                                                 
+ dense_1 (Dense)             (None, 128, 98)           25186     
+                                                                 
+=================================================================
+Total params: 824,050
+Trainable params: 822,770
+Non-trainable params: 1,280
+_________________________________________________________________

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Polier_v1(htr_id=42403)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=37758:lm=provided:date=05_06_2022_18:10
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=37758:lm=provided:date=05_06_2022_18:09
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7</Creator>
+        <Created>2022-03-22T13:47:22.876+01:00</Created>
+        <LastChange>2023-04-10T12:52:36.627+02:00</LastChange>
+        <TranskribusMetadata docId="1385679" pageId="53674049" pageNr="4" tsid="118315002" status="GT" userId="115119" imgUrl="https://files.transkribus.eu/Get?id=CKJWOELQARIAYNHZZHVJLHNB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQDQSHWQFOSXWNQGXZYXUSWN" imageId="29859358"/>
+    </Metadata>
+    <Page imageFilename="0004_CH_ACV_P_RENE_MONOD_020-0007.jpg" imageWidth="5762" imageHeight="4555">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1681124699734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r3"/>
+                <RegionRefIndexed index="2" regionRef="r4"/>
+                <RegionRefIndexed index="3" regionRef="r5"/>
+                <RegionRefIndexed index="4" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="666,373 666,4381 3026,4381 3026,373"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="712,491 746,498 774,486 788,491 825,477 849,479 871,278 811,283 800,273 772,288 734,281"/>
+                <Baseline points="734,424 760,426 786,429 812,431 838,436"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1509,507 1554,484 1596,497 1710,478 1834,489 1865,511 2051,479 2043,341 1967,343 1939,371 1880,363 1837,330 1784,333 1616,375 1594,364 1536,421 1504,422"/>
+                <Baseline points="1522,472 1547,476 1573,478 1598,478 1624,478 1650,478 1675,478 1701,476 1726,475 1752,473 1778,470 1803,468 1829,466 1854,462 1880,462 1906,459 1931,457 1957,456 1982,454 2008,454 2034,454"/>
+                <TextEquiv>
+                    <Unicode>Avril 1762 :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="646,688 672,694 719,665 786,671 805,691 856,686 926,722 1059,697 1070,574 955,562 912,579 852,568 824,542 661,519"/>
+                <Baseline points="704,618 729,620 755,623 781,626 806,628 832,631 858,634 883,636 909,637 935,639 960,641 986,643 1012,646"/>
+                <TextEquiv>
+                    <Unicode>Mardi 27:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="1072,731 1185,646 1619,639 1700,698 2254,652 2385,714 2580,635 2892,654 2889,531 2818,515 2569,568 2262,502 1833,622 1718,569 1363,610 1067,523"/>
+                <Baseline points="1084,636 1173,641 1263,645 1352,648 1442,650 1532,650 1621,650 1711,650 1800,648 1890,646 1980,643 2069,640 2159,636 2248,632 2338,628 2428,624 2517,619 2607,616 2696,610 2786,606 2876,602"/>
+                <TextEquiv>
+                    <Unicode>Guignard = 1j.,, Janet = 1j.,, Marguerat = 1j.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="987,775 1099,756 1165,822 1236,773 1554,743 1815,791 1865,783 1866,703 1699,698 1620,638 1487,689 1130,637 988,673"/>
+                <Baseline points="1002,752 1044,752 1086,752 1129,752 1171,752 1214,752 1256,752 1298,752 1341,753 1383,754 1426,754 1468,755 1510,756 1553,756 1595,758 1638,758 1680,760 1722,760 1765,762 1807,764 1850,764"/>
+                <TextEquiv>
+                    <Unicode>le Gillairone = 1j.,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="990,890 2284,862 2436,917 2516,847 2930,851 2925,663 1869,800 1559,746 987,785"/>
+                <Baseline points="1004,862 1099,866 1195,870 1290,872 1386,874 1481,876 1577,876 1672,876 1768,874 1863,872 1959,870 2054,868 2150,864 2245,859 2341,855 2436,849 2532,843 2627,836 2723,830 2818,823 2914,814"/>
+                <TextEquiv>
+                    <Unicode>Brouti a fini les Intes de Blanc = 1j. = 100 Intes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="967,1023 1744,975 2048,1036 2269,957 2368,1019 2889,954 2886,842 1558,947 1445,885 964,897"/>
+                <Baseline points="980,974 1074,974 1169,974 1264,974 1358,974 1453,974 1548,974 1642,972 1737,972 1832,970 1927,968 2021,966 2116,964 2211,961 2305,956 2400,953 2495,949 2589,943 2684,938 2779,933 2874,926"/>
+                <TextEquiv>
+                    <Unicode>Beau soleil divers vents, Couvert le soir, Bar 26/4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="1001,1108 1083,1078 1433,1148 1512,1085 1603,1123 1673,1078 1833,1153 2017,1077 2102,1100 2101,1026 1961,1043 1787,977 1623,1028 1467,980 1288,1035 1164,977 1000,1003"/>
+                <Baseline points="1016,1078 1069,1080 1123,1080 1176,1082 1230,1082 1284,1082 1337,1081 1391,1080 1444,1080 1498,1078 1552,1078 1605,1076 1659,1076 1712,1074 1766,1074 1820,1072 1873,1072 1927,1072 1980,1072 2034,1074 2088,1074"/>
+                <TextEquiv>
+                    <Unicode>Therm: 13: pluye à 7 heures ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="654,1215 2223,1272 3030,1205 3028,1094 2753,1115 2578,1024 2344,1118 1558,1167 653,1101"/>
+                <Baseline points="668,1192 785,1201 902,1208 1020,1214 1137,1218 1255,1221 1372,1222 1489,1224 1607,1222 1724,1221 1842,1219 1959,1216 2076,1212 2194,1207 2311,1202 2429,1198 2546,1193 2663,1188 2781,1182 2898,1178 3016,1174"/>
+                <TextEquiv>
+                    <Unicode>Mercredi 28 : Bulletins de Tavel de Vevey, les Espagnols son</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="982,1365 1307,1316 1772,1397 2619,1298 2954,1325 2953,1246 2800,1198 2416,1284 2119,1227 980,1242"/>
+                <Baseline points="996,1306 1093,1313 1190,1319 1287,1323 1384,1326 1482,1328 1579,1328 1676,1328 1773,1328 1870,1326 1968,1324 2065,1322 2162,1318 2259,1315 2356,1312 2454,1308 2551,1304 2648,1299 2745,1295 2842,1290 2940,1288"/>
+                <TextEquiv>
+                    <Unicode>entrés le 6 en Portugal, Armistice entre les Suédois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="959,1457 1053,1422 1669,1502 1790,1443 2236,1432 2539,1491 2539,1318 1590,1402 1211,1319 959,1349"/>
+                <Baseline points="974,1408 1051,1415 1129,1422 1206,1427 1284,1431 1361,1434 1439,1437 1516,1438 1594,1438 1671,1438 1749,1438 1826,1437 1904,1436 1981,1434 2059,1432 2136,1430 2214,1428 2291,1426 2369,1423 2446,1422 2524,1420"/>
+                <TextEquiv>
+                    <Unicode>&amp; les Prussiens, signé le 10 à Dipnitz ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="973,1557 1549,1606 2975,1512 2974,1454 2706,1369 2455,1492 971,1439"/>
+                <Baseline points="988,1524 1086,1531 1185,1536 1283,1540 1382,1544 1481,1547 1579,1550 1678,1550 1776,1552 1875,1550 1974,1550 2072,1548 2171,1546 2269,1542 2368,1538 2467,1534 2565,1530 2664,1524 2762,1518 2861,1510 2960,1504"/>
+                <TextEquiv>
+                    <Unicode>Cour Criminelle; Lu les Déclarations du Pasteur de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="992,1649 1468,1713 2654,1629 2951,1680 2950,1521 2882,1510 2184,1612 1872,1552 1485,1616 991,1535"/>
+                <Baseline points="1008,1630 1104,1636 1200,1641 1297,1646 1393,1650 1490,1652 1586,1654 1682,1656 1779,1656 1875,1656 1972,1656 2068,1654 2164,1652 2261,1649 2357,1646 2454,1643 2550,1639 2646,1635 2743,1632 2839,1627 2936,1622"/>
+                <TextEquiv>
+                    <Unicode>la Vaux, du justicier Gillairon, des només Cuenond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="969,1758 1336,1810 1944,1764 2068,1837 2429,1756 2907,1796 2907,1669 2769,1641 2607,1694 2014,1661 1856,1741 969,1653"/>
+                <Baseline points="984,1740 1079,1747 1174,1752 1270,1756 1365,1760 1461,1764 1556,1766 1651,1768 1747,1769 1842,1770 1938,1770 2033,1768 2128,1768 2224,1766 2319,1762 2415,1760 2510,1756 2605,1752 2701,1746 2796,1741 2892,1736"/>
+                <TextEquiv>
+                    <Unicode>&amp; Dubaux concernant l'Esprit &amp; les facultés de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="968,1882 2774,1890 2920,1851 2920,1795 967,1786"/>
+                <Baseline points="982,1854 1078,1861 1174,1866 1270,1871 1366,1874 1463,1878 1559,1880 1655,1880 1751,1882 1847,1882 1944,1880 2040,1880 2136,1878 2232,1875 2328,1872 2425,1868 2521,1864 2617,1858 2713,1853 2809,1846 2906,1840"/>
+                <TextEquiv>
+                    <Unicode>Francoise Blanche toutes tendantes à la faire re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="979,2001 1545,1988 1733,2052 2335,1986 2650,2050 3008,1994 3007,1915 2714,1897 979,1904"/>
+                <Baseline points="992,1956 1092,1962 1192,1968 1292,1972 1392,1976 1492,1978 1592,1980 1692,1982 1792,1984 1892,1984 1992,1984 2092,1982 2192,1982 2292,1980 2392,1978 2492,1975 2592,1972 2692,1968 2792,1965 2892,1960 2992,1956"/>
+                <TextEquiv>
+                    <Unicode>garder comme une espèce d'imbécille ; le procès du rerst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1655130977653_1092" custom="readingOrder {index:16;}">
+                <Coords points="966,2039 1172,1984 2945,1991 2977,1994 2977,2088 2880,2132 2099,2179 966,2103"/>
+                <Baseline points="982,2062 1078,2069 1174,2074 1270,2080 1366,2084 1462,2088 1558,2092 1654,2094 1750,2096 1846,2098 1943,2098 2039,2098 2135,2098 2231,2098 2327,2096 2423,2094 2519,2092 2615,2089 2711,2085 2807,2082 2904,2078 2944,2076 2964,2076"/>
+                <TextEquiv>
+                    <Unicode>censée complette, &amp; le cas jugé du ressort du Tribu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="992,2222 2434,2274 2954,2215 2954,2139 2576,2087 2111,2187 1994,2104 993,2128"/>
+                <Baseline points="1008,2172 1104,2180 1201,2186 1297,2191 1394,2196 1491,2200 1587,2203 1684,2206 1780,2208 1877,2209 1974,2210 2070,2210 2167,2210 2263,2208 2360,2206 2457,2204 2553,2202 2650,2198 2746,2194 2843,2190 2940,2186"/>
+                <TextEquiv>
+                    <Unicode>nal mixte sera présenté à LL. EE. du Senat sous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="992,2335 2698,2383 2924,2337 2925,2216 2032,2295 993,2224"/>
+                <Baseline points="1006,2290 1101,2294 1196,2300 1291,2303 1386,2307 1482,2311 1577,2315 1672,2318 1767,2320 1862,2320 1958,2322 2053,2322 2148,2322 2243,2322 2338,2320 2434,2318 2529,2314 2624,2309 2719,2305 2814,2298 2910,2292"/>
+                <TextEquiv>
+                    <Unicode>ce point de vue 1° aucune circonstance suspecte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="998,2461 1773,2424 2099,2494 2916,2420 2916,2337 2796,2319 2696,2383 2287,2401 2047,2329 999,2358"/>
+                <Baseline points="1014,2404 1108,2406 1202,2410 1296,2413 1391,2416 1485,2420 1579,2423 1674,2426 1768,2428 1862,2430 1957,2432 2051,2434 2145,2434 2239,2434 2334,2432 2428,2430 2522,2428 2617,2423 2711,2419 2805,2411 2900,2404"/>
+                <TextEquiv>
+                    <Unicode>que celle du silence 2° l'Enfant est mort-né, 3°</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="1009,2546 1071,2556 1107,2522 1311,2566 1436,2531 1604,2610 1718,2610 1861,2549 1952,2561 1998,2497 1776,2426 1498,2489 1379,2436 1109,2452 1066,2421 1012,2455"/>
+                <Baseline points="1026,2514 1073,2514 1121,2516 1169,2518 1217,2521 1265,2522 1312,2524 1360,2526 1408,2527 1456,2528 1504,2530 1551,2531 1599,2532 1647,2534 1695,2535 1743,2536 1790,2536 1838,2538 1886,2538 1934,2538 1982,2540"/>
+                <TextEquiv>
+                    <Unicode>la faiblesse de son Esprit ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="941,2664 1166,2719 1347,2643 3005,2689 3007,2578 2917,2556 1615,2613 1493,2537 944,2541"/>
+                <Baseline points="956,2612 1057,2620 1159,2626 1261,2630 1363,2636 1465,2640 1566,2644 1668,2648 1770,2650 1872,2652 1974,2654 2075,2656 2177,2656 2279,2658 2381,2658 2483,2658 2584,2658 2686,2658 2788,2658 2890,2656 2992,2656"/>
+                <TextEquiv>
+                    <Unicode>A l'assemblée en 7 robers perdu 1 fiche aux 4 francs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="1003,2787 2491,2823 2817,2803 2818,2706 1004,2681"/>
+                <Baseline points="1018,2742 1107,2744 1196,2748 1285,2750 1375,2754 1464,2756 1553,2758 1643,2760 1732,2762 1821,2764 1911,2766 2000,2768 2089,2768 2178,2770 2268,2770 2357,2768 2446,2768 2536,2767 2625,2764 2714,2762 2804,2758"/>
+                <TextEquiv>
+                    <Unicode>= L. 4:,, moitié Dalbenas, 2: L. Cartes, = 12 sols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="1011,2847 1052,2866 1075,2864 1115,2907 1132,2911 1253,2898 1288,2908 1290,2796 1228,2782 1196,2790 1179,2771 1146,2773 1135,2761 1123,2772 1115,2763 1067,2785 1052,2778 1013,2791"/>
+                <Baseline points="1026,2850 1051,2852 1076,2855 1101,2857 1126,2860 1151,2861 1176,2862 1201,2862 1226,2862 1251,2860 1276,2858"/>
+                <TextEquiv>
+                    <Unicode>Caffé;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="2904,2910 2924,2915 2940,2929 2953,2924 2971,2947 3023,2952 3040,2789 3022,2790 3003,2779 2975,2797 2966,2796 2947,2773 2918,2770"/>
+                <Baseline points="2924,2870 2954,2873 2985,2878 3016,2878"/>
+                <TextEquiv>
+                    <Unicode>2:,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="992,3010 1462,3011 1528,3078 1890,3012 2015,3092 2157,3036 2209,3087 2707,3031 2711,2855 2144,2986 1981,2900 1648,2975 1424,2872 1199,2947 995,2860"/>
+                <Baseline points="1008,2988 1092,2988 1176,2990 1260,2991 1344,2993 1429,2996 1513,2998 1597,3000 1681,3004 1765,3006 1850,3009 1934,3011 2018,3014 2102,3016 2186,3018 2271,3019 2355,3020 2439,3020 2523,3020 2607,3018 2692,3016"/>
+                <TextEquiv>
+                    <Unicode>Brouti Servagnin à Sechy = 1j. = 100 Intes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="1131,3103 1263,3118 1290,3095 1357,3128 1387,3117 1449,3170 1485,3148 1534,3162 1691,3133 1696,3036 1619,3033 1529,3076 1459,3011 1417,3036 1356,3007 1332,3026 1248,2999 1136,3009"/>
+                <Baseline points="1146,3090 1172,3090 1199,3093 1225,3096 1252,3099 1279,3101 1305,3103 1332,3104 1358,3105 1385,3108 1412,3109 1438,3110 1465,3112 1491,3112 1518,3113 1545,3114 1571,3114 1598,3112 1624,3112 1651,3110 1678,3110"/>
+                <TextEquiv>
+                    <Unicode>Son Compte ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="1021,3254 1389,3224 1642,3293 2427,3279 2431,3170 2240,3177 2172,3116 1953,3222 1678,3188 1610,3133 1450,3171 1346,3122 1026,3122"/>
+                <Baseline points="1038,3204 1106,3208 1175,3210 1244,3214 1313,3218 1382,3220 1450,3223 1519,3226 1588,3230 1657,3232 1726,3236 1794,3238 1863,3241 1932,3243 2001,3245 2070,3248 2138,3250 2207,3252 2276,3252 2345,3254 2414,3256"/>
+                <TextEquiv>
+                    <Unicode>12j. 1/2 à 10 batz ; = L. 12: 10:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1655131822257_1222" custom="readingOrder {index:28;}">
+                <Coords points="1031,3255 1288,3242 2901,3261 3023,3268 3040,3269 3034,3424 2602,3471 2367,3465 1355,3416 1028,3314"/>
+                <Baseline points="1044,3298 1135,3309 1227,3320 1319,3330 1410,3338 1502,3345 1594,3351 1685,3356 1777,3360 1869,3363 1961,3366 2052,3370 2144,3372 2236,3376 2327,3378 2419,3383 2511,3387 2602,3392 2694,3398 2786,3404 2878,3414 2940,3390 2966,3391 2993,3391 3020,3394"/>
+                <TextEquiv>
+                    <Unicode>Solvit précédemment 5 L. reste payé L. 7;,, 10:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:29;}">
+                <Coords points="1015,3433 1415,3470 1501,3539 1636,3476 1868,3548 2030,3513 2420,3609 2507,3557 2732,3575 2742,3458 2372,3479 1867,3382 1671,3441 1602,3385 1375,3423 1099,3333 1020,3362"/>
+                <Baseline points="1030,3428 1114,3435 1199,3441 1283,3448 1368,3454 1452,3461 1537,3469 1621,3477 1706,3484 1790,3492 1875,3500 1959,3508 2044,3515 2128,3521 2213,3528 2297,3534 2382,3539 2466,3543 2551,3548 2635,3550 2720,3552"/>
+                <TextEquiv>
+                    <Unicode>Janet = 1 j.,, Beau soleil, Girouette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:30;}">
+                <Coords points="1001,3600 1134,3559 1192,3616 1581,3640 1736,3577 2193,3697 2502,3647 2586,3715 2917,3652 2922,3579 2806,3556 2264,3596 2034,3515 1790,3560 1013,3433"/>
+                <Baseline points="1022,3534 1116,3538 1210,3542 1304,3547 1398,3554 1492,3560 1586,3568 1680,3577 1774,3585 1868,3594 1962,3601 2056,3609 2150,3617 2244,3622 2338,3630 2432,3634 2526,3638 2620,3642 2714,3644 2808,3644 2902,3642"/>
+                <TextEquiv>
+                    <Unicode>Guignard = 1j. au Vent, petit Orage le soir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:31;}">
+                <Coords points="1044,3644 1600,3694 1652,3749 1771,3687 2000,3809 2183,3764 2601,3854 2901,3816 2909,3710 2763,3657 2582,3714 2525,3653 2411,3721 2287,3652 2023,3705 1952,3634 1836,3687 1715,3612 1048,3595"/>
+                <Baseline points="1058,3642 1149,3647 1241,3653 1332,3661 1424,3670 1516,3678 1607,3688 1699,3698 1790,3708 1882,3717 1974,3726 2065,3734 2157,3743 2248,3750 2340,3757 2432,3762 2523,3766 2615,3768 2706,3768 2798,3768 2890,3764"/>
+                <TextEquiv>
+                    <Unicode>Marguerat = 1j,, Averse, Bar. 26/4 : Therm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:32;}">
+                <Coords points="990,3757 1085,3817 1159,3783 1194,3813 1524,3792 1642,3884 1752,3901 2094,3875 2077,3779 2000,3810 1926,3758 1643,3754 1598,3699 1488,3741 1166,3656 998,3681"/>
+                <Baseline points="1006,3738 1059,3743 1113,3748 1167,3754 1221,3758 1275,3763 1328,3766 1382,3771 1436,3775 1490,3780 1544,3784 1597,3789 1651,3794 1705,3800 1759,3805 1813,3810 1866,3817 1920,3827 1974,3835 2028,3844 2082,3854"/>
+                <TextEquiv>
+                    <Unicode>La Gillairone à = 1j., 12 1/2;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:33;}">
+                <Coords points="671,3891 718,3892 765,3923 883,3923 936,3979 982,3966 1016,3981 1030,3835 936,3808 888,3838 817,3808 772,3759 701,3790 681,3782"/>
+                <Baseline points="688,3874 714,3878 741,3881 768,3885 795,3888 822,3890 849,3895 875,3897 902,3899 929,3901 956,3904 983,3904 1010,3904"/>
+                <TextEquiv>
+                    <Unicode>Jeudi 29 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:34;}">
+                <Coords points="1106,3903 2748,4041 2785,3840 2138,3839 1855,3910 1208,3811 1109,3845"/>
+                <Baseline points="1122,3898 1204,3902 1286,3906 1368,3910 1450,3914 1532,3920 1614,3924 1696,3928 1778,3934 1860,3938 1943,3943 2025,3948 2107,3952 2189,3956 2271,3960 2353,3964 2435,3968 2517,3971 2599,3974 2681,3976 2764,3978"/>
+                <TextEquiv>
+                    <Unicode>Consistoire, recu les Emoluments de 1760</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:35;}">
+                <Coords points="1078,4065 1224,4011 1455,4044 1503,4082 1638,4036 1811,4104 2045,4064 2050,3976 1948,4003 1816,3946 1688,3971 1585,3913 1430,3963 1277,3955 1086,3907"/>
+                <Baseline points="1096,4000 1142,4004 1189,4007 1236,4011 1282,4014 1329,4017 1376,4020 1422,4023 1469,4026 1516,4028 1563,4030 1609,4033 1656,4034 1703,4037 1749,4039 1796,4041 1843,4043 1889,4045 1936,4047 1983,4050 2030,4052"/>
+                <TextEquiv>
+                    <Unicode>fait 16 Assemblées ; -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:36;}">
+                <Coords points="2925,4088 2957,4095 2967,4108 2986,4101 3008,4115 3017,4110 3037,4116 3051,3996 3036,3994 3015,4004 3007,3994 2998,3993 2979,4006 2959,4000 2949,4008 2935,4006"/>
+                <Baseline points="2942,4076 2970,4076 2998,4081 3026,4084"/>
+                <TextEquiv>
+                    <Unicode>8:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:37;}">
+                <Coords points="2785,4122 2820,4122 2840,4110 2889,4118 2916,3959 2884,3954 2877,3946 2837,3952 2814,3945"/>
+                <Baseline points="2808,4074 2844,4085 2880,4086"/>
+                <TextEquiv>
+                    <Unicode>2:,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1655132028022_1256" custom="readingOrder {index:38;}">
+                <Coords points="1156,4014 2482,4068 2982,4101 3022,4116 3014,4192 2927,4225 2106,4242 1534,4218 1075,4119 1077,4066"/>
+                <Baseline points="1090,4102 1181,4109 1272,4115 1363,4122 1455,4128 1546,4134 1637,4141 1729,4148 1820,4154 1911,4159 2003,4165 2094,4170 2185,4174 2276,4178 2368,4180 2459,4183 2550,4184 2642,4184 2733,4184 2824,4182 2916,4178 2958,4172 3000,4176"/>
+                <TextEquiv>
+                    <Unicode>Sterlly &amp; sa femme séparés pr 6 mois, la mere garde les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:39;}">
+                <Coords points="1037,4259 2913,4311 2917,4214 2856,4196 1929,4234 1531,4134 1043,4129"/>
+                <Baseline points="1054,4212 1146,4214 1238,4218 1330,4223 1423,4228 1515,4236 1607,4242 1700,4247 1792,4253 1884,4260 1977,4266 2069,4271 2161,4276 2253,4280 2346,4283 2438,4284 2530,4286 2623,4286 2715,4284 2807,4280 2900,4274"/>
+                <TextEquiv>
+                    <Unicode>filles &amp; le père le garçon, Sterlhy aura les entrées libres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:40;}">
+                <Coords points="1035,4329 1153,4383 1455,4329 1676,4390 1745,4351 2346,4387 2384,4315 2178,4331 2115,4273 1890,4327 1757,4260 1694,4314 1502,4251 1419,4281 1350,4225 1036,4285"/>
+                <Baseline points="1050,4318 1115,4320 1181,4322 1247,4324 1313,4326 1379,4330 1445,4333 1511,4336 1577,4338 1643,4341 1709,4344 1774,4346 1840,4348 1906,4350 1972,4353 2038,4354 2104,4356 2170,4358 2236,4359 2302,4360 2368,4360"/>
+                <TextEquiv>
+                    <Unicode>chez Lutold &amp; ses filles iront le voir ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8
+Avril 1762 :
+Mardi 27:,,
+Guignard = 1j.,, Janet = 1j.,, Marguerat = 1j.
+le Gillairone = 1j.,,
+Brouti a fini les Intes de Blanc = 1j. = 100 Intes; 
+Beau soleil divers vents, Couvert le soir, Bar. 26/4
+Therm: 13: pluye à 7 heures;
+Mercredi 28 : Bulletins de Tavel de Vevey, les Espagnols sont
+entrés le 6 en Portugal, Armistice entre les Suédois
+&amp; les Prussiens, signé le 10 à Dipnitz ;
+Cour Criminelle; Lu les Déclarations du Pasteur de
+la Vaux, du justicier Gillairon, des només Cuenond
+&amp; Dubaux, concernant l'Esprit &amp; les facultés de
+Françoise Blanche toutes tendantes à la faire re-
+garder comme une espèce d'imbécille; le procès du reste
+censée complette, &amp; le cas jugé du ressort du Tribu-
+nal mixte sera présenté à LL. EE. du Senat sous
+ce point de vue 1° aucune circonstance suspecte
+que celle du silence 2° l'Enfant est mort-né, 3°
+la faiblesse de son Esprit ;
+A l'assemblée en 7 robers perdu 1 fiche aux 4 francs
+= L. 4:,, moitié Dalbenas, 2: L. Cartes, = 12 sols;
+Caffé;
+2:,,
+Brouti Servagnin à Sechy = 1j. = 100 Intes
+Son Compte ;
+12j. 1/2 à 10 batz ; = L. 12: 10:
+Solvit précédemment 5 L reste payé L. 7;,, 10;,,
+Janet = 1 j.,, Beau soleil, Girouette
+Guignard = 1j. au Vent, petit Orage le soir
+Marguerat = 1j,, Averse, Bar. 26/4 : Therm
+La Gillairone à = 1j., 12 1/2;
+Jeudi 29 :
+Consistoire, reçu les Emoluments de 1760
+fait 16 Assemblées ;
+8:,,
+2:,,
+Sterlly &amp; sa femme séparés pr 6 mois, la mere garde les
+filles &amp; le père le garçon, Sterlhy aura les entrées libres
+chez Lutold &amp; ses filles iront le voir,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:1;}">
+            <Coords points="3312,3398 3312,3552 3332,3552 3332,3398"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3301,3525 3313,3523 3318,3519 3336,3521 3351,3518 3335,3440 3320,3443 3318,3447 3312,3448 3305,3443 3303,3447 3286,3450"/>
+                <Baseline points="3312,3502 3332,3498"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:2;}">
+            <Coords points="3040,306 3040,4106 5346,4106 5346,306"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="5089,399 5152,409 5189,432 5218,427 5205,263 5176,269 5137,257 5103,280 5079,276"/>
+                <Baseline points="5102,366 5134,363 5166,361 5198,358"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="3792,424 3867,454 3921,429 4011,471 4111,472 4224,429 4261,454 4328,406 4384,403 4387,309 4332,289 3965,287 3899,326 3797,307"/>
+                <Baseline points="3806,420 3834,421 3862,422 3890,422 3918,422 3946,422 3974,420 4002,420 4030,420 4058,420 4087,420 4115,421 4143,422 4171,423 4199,425 4227,428 4255,431 4283,435 4311,439 4339,444 4368,450"/>
+                <TextEquiv>
+                    <Unicode>Avril 1762:,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:2;}">
+                <Coords points="3396,692 4582,692 4636,744 4890,664 5257,689 5255,539 5000,522 4696,623 4539,520 3949,593 3549,546 3395,612"/>
+                <Baseline points="3410,674 3501,674 3593,676 3684,676 3776,678 3868,678 3959,678 4051,678 4142,678 4234,676 4326,676 4417,674 4509,672 4600,671 4692,668 4784,666 4875,662 4967,659 5058,655 5150,650 5242,646"/>
+                <TextEquiv>
+                    <Unicode>4 Vendeuses, Bourgeois, Borgeod, Constant,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:3;}">
+                <Coords points="3023,687 3152,731 3169,725 3219,753 3287,725 3346,724 3349,565 3317,576 3271,537 3227,527 3191,550 3147,549 3060,611 3025,619"/>
+                <Baseline points="3040,666 3066,668 3093,668 3119,668 3146,668 3172,668 3199,668 3225,669 3252,670 3278,671 3305,674 3332,676"/>
+                <TextEquiv>
+                    <Unicode>Jeudi 29:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:4;}">
+                <Coords points="3335,826 3840,771 4170,849 4316,780 4789,837 5238,777 5237,706 5081,658 4641,748 4582,693 4292,754 4171,682 3875,744 3334,711"/>
+                <Baseline points="3350,784 3443,784 3537,784 3630,784 3724,784 3818,784 3911,784 4005,784 4098,784 4192,784 4286,784 4379,782 4473,782 4566,780 4660,778 4754,777 4847,774 4941,772 5034,768 5128,764 5222,760"/>
+                <TextEquiv>
+                    <Unicode>Francillon, Dessel payent leur comparoissance</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:5;}">
+                <Coords points="3333,934 4536,902 4840,970 4962,895 5127,944 5361,889 5360,777 5002,772 4800,850 4541,797 4348,866 3957,799 3332,852"/>
+                <Baseline points="3348,892 3447,892 3547,894 3647,894 3747,896 3847,896 3947,898 4047,900 4147,900 4247,900 4347,900 4446,900 4546,900 4646,898 4746,896 4846,893 4946,889 5046,884 5146,878 5246,869 5346,860"/>
+                <TextEquiv>
+                    <Unicode>pr Vente Dim. dernier à 2 h. 1/2; excepté la Bor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:6;}">
+                <Coords points="3332,1002 3364,1000 3376,1009 3391,995 3408,995 3454,1034 3478,1023 3498,1035 3528,1012 3543,1013 3544,948 3524,951 3486,920 3460,926 3433,916 3401,936 3377,939 3353,962 3333,961"/>
+                <Baseline points="3348,992 3373,990 3399,990 3425,991 3450,992 3476,994 3502,994 3528,992"/>
+                <TextEquiv>
+                    <Unicode>geod ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:7;}">
+                <Coords points="3328,1092 3827,1146 4185,1101 4359,1168 4514,1103 5275,1100 5274,965 4666,1032 3929,949 3762,1038 3328,1042"/>
+                <Baseline points="3342,1088 3437,1090 3533,1094 3629,1096 3725,1099 3821,1101 3917,1104 4013,1104 4109,1106 4205,1106 4301,1106 4396,1106 4492,1104 4588,1104 4684,1102 4780,1099 4876,1096 4972,1092 5068,1088 5164,1083 5260,1078"/>
+                <TextEquiv>
+                    <Unicode>Pirch, Mazel, Canard, Friquet, Marcel trouvés au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:8;}">
+                <Coords points="3315,1240 3591,1190 3911,1255 4968,1190 5156,1234 5156,1096 4821,1146 4525,1105 4369,1173 3315,1122"/>
+                <Baseline points="3330,1186 3420,1189 3511,1193 3601,1196 3692,1199 3783,1202 3873,1204 3964,1206 4054,1206 4145,1208 4236,1208 4326,1208 4417,1207 4507,1206 4598,1204 4689,1202 4779,1200 4870,1196 4960,1194 5051,1190 5142,1184"/>
+                <TextEquiv>
+                    <Unicode>jardin de la Violette, à la mêmue heure, libérés ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:9;}">
+                <Coords points="3312,1344 3439,1295 4763,1368 5203,1335 5297,1300 5298,1224 4898,1207 4731,1277 4602,1206 4093,1295 3557,1204 3313,1245"/>
+                <Baseline points="3326,1292 3423,1296 3521,1302 3619,1305 3717,1308 3815,1312 3913,1314 4011,1316 4109,1318 4207,1318 4305,1320 4402,1320 4500,1319 4598,1318 4696,1317 4794,1316 4892,1314 4990,1310 5088,1308 5186,1304 5284,1302"/>
+                <TextEquiv>
+                    <Unicode>La Violette condamnée à sa comparoissance &amp; à dix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:10;}">
+                <Coords points="3335,1413 3446,1429 3553,1411 3637,1447 3661,1427 3740,1429 3813,1452 3861,1424 3892,1455 3916,1447 3918,1370 3854,1377 3790,1340 3755,1336 3689,1375 3603,1325 3558,1347 3435,1334 3398,1304 3338,1325"/>
+                <Baseline points="3350,1396 3377,1396 3405,1398 3432,1400 3460,1400 3488,1402 3515,1402 3543,1404 3570,1404 3598,1406 3626,1407 3653,1408 3681,1409 3708,1410 3736,1410 3764,1412 3791,1412 3819,1412 3846,1412 3874,1412 3902,1412"/>
+                <TextEquiv>
+                    <Unicode>batz d'amende ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:11;}">
+                <Coords points="3332,1521 3840,1510 3983,1589 4354,1535 4503,1608 4680,1537 5246,1571 5249,1392 4708,1402 4510,1499 4006,1430 3797,1489 3334,1403"/>
+                <Baseline points="3346,1490 3440,1496 3534,1503 3628,1509 3723,1513 3817,1518 3911,1521 4006,1524 4100,1526 4194,1528 4289,1530 4383,1530 4477,1530 4571,1530 4666,1530 4760,1530 4854,1528 4949,1526 5043,1524 5137,1522 5232,1520"/>
+                <TextEquiv>
+                    <Unicode>Dessel liberé Garçons du manège, Varidel, Pachaud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:12;}">
+                <Coords points="3307,1597 3401,1605 3462,1652 3657,1609 3917,1667 3938,1663 3944,1596 3843,1605 3766,1545 3623,1565 3538,1525 3501,1543 3467,1522 3420,1560 3385,1518 3315,1503"/>
+                <Baseline points="3324,1582 3354,1585 3384,1588 3414,1591 3444,1593 3474,1596 3504,1599 3534,1602 3564,1603 3594,1606 3625,1608 3655,1611 3685,1614 3715,1616 3745,1618 3775,1621 3805,1623 3835,1627 3865,1630 3895,1633 3926,1636"/>
+                <TextEquiv>
+                    <Unicode>Delessers liberés;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:13;}">
+                <Coords points="3300,1749 3675,1722 3780,1800 3965,1734 4121,1796 4279,1752 4420,1832 4919,1763 5099,1832 5105,1683 4968,1642 4646,1694 4339,1634 4087,1710 3662,1610 3305,1628"/>
+                <Baseline points="3318,1696 3406,1700 3494,1704 3583,1709 3671,1714 3760,1719 3848,1725 3936,1730 4025,1736 4113,1741 4202,1746 4290,1750 4378,1754 4467,1757 4555,1760 4644,1762 4732,1762 4820,1761 4909,1760 4997,1757 5086,1752"/>
+                <TextEquiv>
+                    <Unicode>Societé St Germain, perdu 5 fiches aux 10 sols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:14;}">
+                <Coords points="3321,1844 3936,1907 4270,1859 4429,1921 4578,1870 4749,1946 5259,1879 5263,1776 4996,1840 4781,1774 4579,1844 3822,1815 3575,1718 3324,1753"/>
+                <Baseline points="3338,1800 3433,1811 3528,1818 3623,1826 3719,1834 3814,1842 3909,1848 4005,1853 4100,1858 4195,1862 4291,1866 4386,1869 4481,1872 4576,1872 4672,1874 4767,1874 4862,1874 4958,1872 5053,1872 5148,1868 5244,1866"/>
+                <TextEquiv>
+                    <Unicode>= L. 2: 10:,, soupé dittò gagné 5 fiches aux 5 sols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:15;}">
+                <Coords points="3326,1952 3430,1946 3597,2009 3758,1967 3837,2028 3945,2037 4142,1977 4302,2012 4307,1880 4186,1927 4127,1894 3946,1913 3857,1867 3741,1902 3528,1822 3401,1877 3333,1841"/>
+                <Baseline points="3342,1918 3389,1925 3436,1931 3484,1937 3531,1942 3579,1946 3626,1949 3673,1952 3721,1954 3768,1956 3816,1958 3863,1960 3910,1960 3958,1962 4005,1964 4053,1966 4100,1968 4147,1972 4195,1974 4242,1979 4290,1984"/>
+                <TextEquiv>
+                    <Unicode>= L. 1:,, 5:,, Cartes = 2 sols;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:16;}">
+                <Coords points="3311,2111 3429,2060 3566,2125 3832,2150 3962,2103 4124,2146 4275,2123 4362,2187 4445,2131 4559,2147 4522,2080 4213,2084 4074,1995 3837,2030 3322,1939"/>
+                <Baseline points="3330,2048 3390,2053 3451,2058 3512,2062 3573,2066 3634,2072 3694,2076 3755,2080 3816,2084 3877,2089 3938,2093 3998,2096 4059,2101 4120,2104 4181,2108 4242,2110 4302,2114 4363,2116 4424,2120 4485,2122 4546,2124"/>
+                <TextEquiv>
+                    <Unicode>Solvit le Compte du ménage ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:17;}">
+                <Coords points="4908,2168 5016,2161 5083,2119 5130,2127 5154,2150 5189,2144 5248,2167 5246,1982 5176,2009 5102,1966 4997,1982 4905,1974"/>
+                <Baseline points="4922,2128 4948,2131 4974,2134 5000,2134 5026,2134 5052,2132 5078,2130 5104,2128 5130,2127 5156,2126 5182,2128 5208,2131 5234,2136"/>
+                <TextEquiv>
+                    <Unicode>L. 10;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:18;}">
+                <Coords points="3322,2167 4330,2244 4386,2299 4568,2237 5005,2330 5142,2283 5147,2183 4817,2201 4561,2128 4367,2187 4285,2118 4165,2175 3326,2070"/>
+                <Baseline points="3336,2156 3425,2166 3515,2173 3604,2179 3694,2186 3784,2192 3873,2198 3963,2202 4052,2207 4142,2210 4232,2214 4321,2218 4411,2220 4500,2224 4590,2226 4680,2229 4769,2232 4859,2234 4948,2237 5038,2240 5128,2242"/>
+                <TextEquiv>
+                    <Unicode>Janet =1j, Gillairone =1j.,, Marguerat = 1j.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:19;}">
+                <Coords points="3326,2279 3480,2271 3606,2314 3703,2284 3756,2312 3862,2315 3906,2351 3974,2312 4037,2335 4041,2291 3910,2239 3874,2248 3844,2213 3710,2237 3633,2201 3595,2234 3548,2230 3495,2190 3336,2162"/>
+                <Baseline points="3342,2252 3376,2256 3410,2260 3444,2264 3478,2267 3512,2270 3546,2273 3580,2277 3614,2278 3648,2281 3683,2284 3717,2285 3751,2288 3785,2291 3819,2292 3853,2296 3887,2299 3921,2303 3955,2306 3989,2309 4024,2314"/>
+                <TextEquiv>
+                    <Unicode>Guignard = 1j.,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:20;}">
+                <Coords points="3321,2387 3583,2445 3729,2402 3876,2471 4163,2432 4247,2501 4527,2433 4650,2498 4916,2481 4921,2370 4801,2308 4502,2402 4361,2336 4248,2378 4104,2312 3957,2369 3851,2311 3705,2348 3326,2279"/>
+                <Baseline points="3336,2372 3414,2375 3492,2380 3570,2384 3649,2389 3727,2394 3805,2398 3884,2404 3962,2407 4040,2412 4119,2416 4197,2421 4275,2426 4353,2428 4432,2432 4510,2435 4588,2438 4667,2440 4745,2442 4823,2442 4902,2444"/>
+                <TextEquiv>
+                    <Unicode>Platel à Séchy. Servagnin = 50 Intes ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:21;}">
+                <Coords points="3306,2499 4731,2638 5235,2546 5241,2408 5004,2512 4484,2442 4246,2499 4161,2431 3976,2496 3310,2394"/>
+                <Baseline points="3320,2478 3415,2484 3510,2488 3605,2495 3700,2501 3795,2506 3890,2514 3985,2520 4080,2528 4175,2532 4270,2539 4365,2544 4460,2549 4555,2552 4650,2555 4745,2557 4840,2558 4935,2556 5030,2554 5125,2550 5220,2544"/>
+                <TextEquiv>
+                    <Unicode>Beau soleil tout le jour, Calme, Girouette Sud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:22;}">
+                <Coords points="3311,2634 3447,2593 3572,2610 3654,2666 3853,2638 3965,2678 4123,2638 4273,2689 4280,2590 4208,2558 4070,2608 3974,2534 3757,2567 3676,2502 3320,2499"/>
+                <Baseline points="3328,2586 3374,2588 3421,2590 3467,2592 3514,2596 3561,2599 3607,2602 3654,2604 3700,2608 3747,2611 3794,2615 3840,2618 3887,2621 3933,2625 3980,2628 4027,2629 4073,2633 4120,2637 4166,2640 4213,2643 4260,2646"/>
+                <TextEquiv>
+                    <Unicode>Bar. 26/4: Therm : 13:,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1656929227019_759" custom="readingOrder {index:23;}">
+                <Coords points="3047,2580 4780,2725 5164,2758 5178,2903 4997,2924 4648,2905 4027,2868 3295,2796 3035,2729"/>
+                <Baseline points="3052,2702 3078,2709 3104,2712 3131,2715 3157,2718 3183,2720 3210,2721 3236,2723 3262,2724 3289,2726 3315,2727 3341,2728 3368,2730 3446,2736 3532,2744 3618,2750 3704,2757 3790,2764 3876,2772 3962,2779 4048,2786 4134,2793 4220,2800 4306,2806 4392,2814 4478,2818 4564,2823 4650,2827 4736,2832 4822,2834 4908,2836 4994,2838 5080,2838 5166,2836"/>
+                <TextEquiv>
+                    <Unicode>Vendredi 30 :,, Janet 1j. Marguerat = 1j.,, la Gillairone 1j.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:24;}">
+                <Coords points="3338,2857 3377,2851 3404,2880 3503,2866 3558,2918 3715,2894 3799,2956 3963,2895 4049,2919 4059,2793 3978,2808 3944,2784 3813,2842 3752,2797 3663,2808 3633,2776 3543,2799 3450,2742 3344,2775"/>
+                <Baseline points="3354,2840 3388,2844 3422,2848 3456,2852 3490,2855 3524,2858 3558,2861 3592,2864 3626,2867 3660,2871 3695,2874 3729,2875 3763,2878 3797,2881 3831,2882 3865,2884 3899,2885 3933,2887 3967,2888 4001,2890 4036,2890"/>
+                <TextEquiv>
+                    <Unicode>haut Violet fini ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:25;}">
+                <Coords points="3314,2983 4897,3065 5146,3028 5151,2928 4742,2993 4086,2892 3803,2954 3318,2895"/>
+                <Baseline points="3330,2944 3420,2950 3510,2957 3600,2963 3690,2970 3780,2976 3870,2982 3960,2987 4050,2992 4140,2998 4231,3004 4321,3008 4411,3012 4501,3016 4591,3020 4681,3022 4771,3026 4861,3028 4951,3028 5041,3030 5132,3030"/>
+                <TextEquiv>
+                    <Unicode>Chez Me de St Germain, gagné en 3 robers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:26;}">
+                <Coords points="3328,3083 3402,3131 3484,3073 4236,3138 4378,3196 5029,3170 5070,3058 4797,3109 4434,3010 4094,3052 3997,2988 3823,3058 3537,2967 3331,3012"/>
+                <Baseline points="3344,3056 3429,3061 3514,3068 3600,3073 3685,3080 3771,3086 3856,3093 3941,3099 4027,3105 4112,3112 4198,3117 4283,3122 4368,3126 4454,3130 4539,3134 4625,3136 4710,3137 4795,3138 4881,3136 4966,3136 5052,3132"/>
+                <TextEquiv>
+                    <Unicode>8 fiches aux 10 sols = 4 L,, Cartes = 10 sols ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:27;}">
+                <Coords points="3359,3183 3443,3176 3508,3235 3661,3205 3735,3235 3776,3206 3811,3239 3873,3209 4134,3251 4158,3248 4167,3151 3909,3107 3836,3135 3714,3112 3607,3155 3484,3073 3411,3131 3365,3121"/>
+                <Baseline points="3376,3150 3414,3154 3453,3157 3491,3161 3530,3165 3568,3168 3607,3172 3645,3175 3684,3180 3722,3184 3761,3187 3799,3191 3838,3194 3876,3198 3915,3202 3953,3204 3992,3208 4030,3212 4069,3213 4107,3217 4146,3220"/>
+                <TextEquiv>
+                    <Unicode>Soupé Daulbonne ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:28;}">
+                <Coords points="3292,3296 4449,3396 5048,3352 5139,3410 5306,3356 5312,3242 4005,3281 3881,3213 3297,3196"/>
+                <Baseline points="3308,3248 3407,3259 3506,3270 3605,3278 3704,3287 3804,3296 3903,3304 4002,3311 4101,3318 4200,3323 4300,3329 4399,3334 4498,3338 4597,3341 4696,3344 4796,3346 4895,3346 4994,3348 5093,3346 5192,3346 5292,3344"/>
+                <TextEquiv>
+                    <Unicode>Beau soleil tout le jour, Girouette sud, quelques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:29;}">
+                <Coords points="3325,3430 3600,3385 3729,3460 4292,3427 4482,3508 4579,3457 4899,3524 5324,3490 5329,3388 4508,3351 4252,3405 4150,3329 3977,3379 3860,3317 3330,3324"/>
+                <Baseline points="3344,3354 3442,3365 3540,3376 3639,3386 3737,3395 3836,3403 3934,3411 4032,3418 4131,3426 4229,3432 4328,3438 4426,3444 4524,3448 4623,3452 4721,3455 4820,3456 4918,3458 5016,3458 5115,3458 5213,3457 5312,3454"/>
+                <TextEquiv>
+                    <Unicode>goutes de pluye le soir, Bar. 26/3: Therm: 14:,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l33" custom="readingOrder {index:30;}">
+                <Coords points="3022,3511 3039,3513 3074,3497 3087,3507 3103,3500 3110,3510 3123,3503 3151,3518 3192,3496 3244,3508 3253,3426 3213,3419 3200,3405 3170,3405 3157,3394 3141,3398 3113,3365 3074,3370 3058,3382 3037,3380"/>
+                <Baseline points="3040,3470 3067,3473 3094,3476 3121,3479 3148,3483 3175,3486 3202,3489 3230,3492"/>
+                <TextEquiv>
+                    <Unicode>Samed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l34" custom="readingOrder {index:31;}">
+                <Coords points="3925,3543 3970,3535 4035,3570 4059,3563 4123,3615 4245,3628 4326,3614 4412,3642 4426,3472 4394,3476 4361,3446 4265,3494 4198,3489 4119,3441 4092,3454 4061,3436 3993,3478 3931,3470"/>
+                <Baseline points="3942,3524 3967,3524 3993,3527 4019,3530 4044,3532 4070,3535 4096,3537 4121,3539 4147,3541 4173,3544 4198,3547 4224,3550 4250,3551 4275,3553 4301,3555 4327,3556 4352,3556 4378,3558 4404,3558"/>
+                <TextEquiv>
+                    <Unicode>Mai 1762:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l35" custom="readingOrder {index:32;}">
+                <Coords points="3280,3663 3880,3770 4145,3714 4264,3788 4855,3745 5102,3801 5191,3776 5197,3685 5058,3636 4477,3674 4268,3612 4043,3691 3741,3582 3286,3560"/>
+                <Baseline points="3374,3648 3464,3658 3554,3669 3644,3678 3734,3687 3825,3696 3915,3703 4005,3711 4095,3716 4185,3722 4276,3728 4366,3732 4456,3736 4546,3740 4636,3742 4727,3746 4817,3748 4907,3750 4997,3750 5087,3752 5178,3752"/>
+                <TextEquiv>
+                    <Unicode>Admodié les 2 pièces d'Esparcettes au bas du bois ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l36" custom="readingOrder {index:33;}">
+                <Coords points="3327,3828 4218,3826 4676,3914 5281,3847 5024,3756 4167,3795 4014,3726 3874,3770 3334,3681"/>
+                <Baseline points="3346,3758 3442,3768 3538,3778 3634,3787 3730,3794 3826,3803 3922,3811 4018,3818 4114,3823 4210,3828 4306,3834 4402,3838 4498,3841 4594,3844 4690,3846 4786,3847 4882,3848 4978,3846 5074,3846 5170,3844 5266,3840"/>
+                <TextEquiv>
+                    <Unicode>&amp; celle qui est vis à vis à Jean Depons Meunier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l37" custom="readingOrder {index:34;}">
+                <Coords points="3334,3891 4108,3926 4366,4019 4525,3948 4701,4025 4915,3966 5023,4044 5179,3958 5314,3978 5317,3887 5010,3852 4681,3919 4215,3825 3336,3821"/>
+                <Baseline points="3350,3864 3447,3874 3545,3883 3642,3893 3740,3900 3837,3909 3935,3916 4032,3922 4130,3930 4227,3934 4325,3940 4422,3944 4520,3946 4617,3948 4715,3950 4812,3950 4910,3948 5007,3946 5105,3942 5202,3937 5300,3930"/>
+                <TextEquiv>
+                    <Unicode>au Moulin de Crissier dessus au prix de L 20:,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l38" custom="readingOrder {index:35;}">
+                <Coords points="3312,4040 3379,4000 3469,4063 3602,4016 4193,4114 4287,4067 4391,4134 4734,4125 4739,4043 4552,3948 4361,4020 4207,3947 4082,4015 3990,3946 3798,3997 3700,3926 3319,3940"/>
+                <Baseline points="3330,3974 3399,3983 3469,3992 3538,3999 3608,4006 3678,4012 3747,4018 3817,4022 3886,4028 3956,4032 4026,4036 4095,4042 4165,4045 4234,4049 4304,4053 4374,4058 4443,4062 4513,4065 4582,4071 4652,4076 4722,4080"/>
+                <TextEquiv>
+                    <Unicode>payables à la St. Martin 1762;,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9
+Avril 1762:,,
+4 Vendeuses, Bourgeois, Borgeod, Constant,
+Jeudi 29;,,
+Francillon, Dessel payent leur comparoissance
+pr Vente Dim. dernier à 2 h. 1/2; excepté la Bor-
+geod;
+Pirch, Mazel, Canard, Friquet, Marcel trouvés au
+jardin de la Violette, à la mêmue heure, libérés;
+La Violette condamnée à sa comparoissance &amp; à dix
+batz d'amende;
+Dessel liberé, Garçons du manège, Varidel, Pachaud
+Delessers liberés;
+Societé St Germain, perdu 5 fiches aux 10 sols,
+= L. 2:, 10:,, soupé dittò gagné 5 fiches aux 5 sols
+= L. 1:,, 5:,, Cartes = 2 sols, 
+Solvit le Compte du ménage;
+L. 10:,, 
+Janet =1j, Gillairone =1j.,, Marguerat = 1j.
+Guignard = 1j.,,
+Platel à Séchy. Servagnin = 50 Intes;
+Beau soleil tout le jour, Calme, Girouette Sud
+Bar. 26/4: Therm : 13:,
+Vendredi 30 :,, Janet 1j. Marguerat = 1j.,, la Gillairone 1j.
+haut Violet fini;
+Chez Me de St Germain, gagné en 3 robers
+8 fiches aux 10 sols = 4 L,, Cartes = 10 sols;
+Soupé Daulbonne;
+Beau soleil tout le jour, Girouette sud, quelques
+goutes de pluye le soir, Bar. 26/3: Therm: 14:,,
+Samedi
+Mai 1762:
+Admodié les 2 pièces d'Esparcettes au bas du bois;
+&amp; celle qui est vis à vis à Jean Depons Meunier
+au Moulin de Crissier dessus au prix de L 20:,,
+payables à la St. Martin 1762;,,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:3;}">
+            <Coords points="5256,2026 5256,2892 5392,2892 5392,2026"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="5279,2158 5350,2164 5350,2023 5335,2023 5326,2029 5306,2023 5279,2026"/>
+                <Baseline points="5294,2126 5336,2126"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="5235,2903 5259,2909 5284,2890 5301,2901 5313,2899 5335,2883 5355,2885 5371,2875 5402,2890 5417,2729 5325,2735 5288,2720 5269,2700 5255,2699"/>
+                <Baseline points="5256,2830 5283,2831 5310,2833 5337,2836 5364,2839 5392,2842"/>
+                <TextEquiv>
+                    <Unicode>3j.,,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15:
+3j.,,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:4;}">
+            <Coords points="5408,2032 5408,2186 5460,2186 5460,2032"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="5393,2157 5419,2156 5430,2169 5452,2155 5454,2159 5472,2160 5482,2028 5456,2026 5448,2020 5426,2033 5421,2026 5403,2025"/>
+                <Baseline points="5408,2132 5434,2132 5460,2136"/>
+                <TextEquiv>
+                    <Unicode>3:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3:,,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
