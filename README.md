@@ -17,7 +17,7 @@ Since 2021, the [Archives cantonales vaudoises (ACV)](https://www.vd.ch/toutes-l
 
 ## Jean-Henri Polier de Vernand (1715-1791)
 
-For more information, you can find a copy of my master thesis in French [here](docs./Master_thesis_Kauffmann_2023.pdf).
+For more information, you can find a copy of my master thesis in French [here](docs/Master_thesis_Kauffmann_2023.pdf).
 
 ## Methodology 
 
