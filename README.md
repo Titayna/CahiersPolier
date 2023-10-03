@@ -8,6 +8,8 @@ The results of the HTR process can be find [here]() <!-- AJOUTER LIEN RELATIF --
 
 ## <summary>Summary</summary>
 - [Jean-Henri Polier de Vernand (1715-1791)](README.md?plain=3)
+- [Methodology] 
+
 
 
 ## Jean-Henri Polier de Vernand (1715-1791)
