@@ -4,7 +4,7 @@ Since 2021, the [Archives cantonales vaudoises (ACV)](https://www.vd.ch/toutes-l
 
 For my master's thesis, I applied Handwritten Text Recognition (HTR) – using TensorFlow, [Transkribus](https://readcoop.eu/transkribus/) and [HTR-Flor](https://github.com/arthurflor23/handwritten-text-recognition) – to the 26,300 pages that make up the notebooks of Lausanne's bailiff lieutenant. 
 
-This was a part of my Master degree in [Digital Humanities](https://www.unil.ch/lettres/fr/home/menuinst/formations/master-en-humanites-numeriques.html) and [History] (https://www.unil.ch/hist/fr/home/menuinst/formations/maitrise-universitaire-1.html) at the University of Lausanne in Switzerland. 
+This was a part of my Master degree in [Digital Humanities](https://www.unil.ch/lettres/fr/home/menuinst/formations/master-en-humanites-numeriques.html) and [History](https://www.unil.ch/hist/fr/home/menuinst/formations/maitrise-universitaire-1.html) at the University of Lausanne in Switzerland. 
 
 This git presents both the results of this research and the methodology used to transform this valuable source of Lausanne's eighteenth-century history into a digital format.
 
