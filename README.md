@@ -2,7 +2,11 @@
 
 Since 2021, the [Archives cantonales vaudoises (ACV)](https://www.vd.ch/toutes-les-autorites/archives-cantonales-vaudoises-acv) and the [Collège des Humanités digitales (CDH) at EPFL](https://www.epfl.ch/schools/cdh/fr/) – more precisely the [Lausanne Time Machine project](https://www.epfl.ch/schools/cdh/lausanne-time-machine/fr/lausanne-time-machine/) – are collaborating to digitalized the notebooks of Jean-Henri Polier de Vernand. 
 
-As part of the Master's degree in [Digital Humanities](https://www.unil.ch/lettres/fr/home/menuinst/formations/master-en-humanites-numeriques.html) and the [Master's degree in History](https://www.unil.ch/hist/fr/home/menuinst/formations/maitrise-universitaire-1.html) at the University of Lausanne, my thesis work consisted of the handwritten text recognition (HTR) – using TensorFlow, [Transkribus](https://readcoop.eu/transkribus/) and [HTR-Flor](https://github.com/arthurflor23/handwritten-text-recognition) –  of the 26,300 pages that make up the notebooks of Lausanne's bailiff lieutenant. This git presents both the results of this research and the methodology used to transform this valuable source of Lausanne's eighteenth-century history into a digital format.
+For my master's thesis, I applied Handwritten Text Recognition (HTR) – using TensorFlow, [Transkribus](https://readcoop.eu/transkribus/) and [HTR-Flor](https://github.com/arthurflor23/handwritten-text-recognition) – to the 26,300 pages that make up the notebooks of Lausanne's bailiff lieutenant. 
+
+This was a part of my Master degree in [Digital Humanities](https://www.unil.ch/lettres/fr/home/menuinst/formations/master-en-humanites-numeriques.html) and [History] (https://www.unil.ch/hist/fr/home/menuinst/formations/maitrise-universitaire-1.html) at the University of Lausanne in Switzerland. 
+
+This git presents both the results of this research and the methodology used to transform this valuable source of Lausanne's eighteenth-century history into a digital format.
 
 *The results of the HTR process can be find [here]().* <!-- AJOUTER LIEN RELATIF -->
 
