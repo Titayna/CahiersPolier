@@ -8,8 +8,11 @@ As part of the Master's degree in [Digital Humanities](https://www.unil.ch/lettr
 
 Table of Contents
 =================
-* [Jean-Henri Polier de Vernand (1715-1791](#jean-henri-polier-de-vernand-1715-1791)
-
+* [Jean-Henri Polier de Vernand (1715-1791)](#jean-henri-polier-de-vernand-1715-1791)
+* [Methodology](#methodology)
+    * [Training set with Transkribus](#training-set-with-transkribus)
+    * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
+* [Results](#results)
 
 
 ## Jean-Henri Polier de Vernand (1715-1791)
@@ -35,6 +38,6 @@ Lausanne in 1715 and served there from 1754 until his death in 1791 as lieutenan
 ### HTR-Flor by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
 
-### Results 
+## Results 
 
 
