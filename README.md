@@ -1,4 +1,4 @@
-# HANDWRITTEN TEXT RECOGNITION (HTR) AND THE NOTEBOOKS OF JEAN-HENRI POLIER DE VERNAND (1715-1791)
+# Handwritten Text Recognition (HTR) and the Notebooks of Jean-Henri Polier de Vernand (1715-1791)
 
 Since 2021, the [Archives cantonales vaudoises (ACV)](https://www.vd.ch/toutes-les-autorites/archives-cantonales-vaudoises-acv) and the [Collège des Humanités digitales (CDH) at EPFL](https://www.epfl.ch/schools/cdh/fr/) – more precisely the [Lausanne Time Machine project](https://www.epfl.ch/schools/cdh/lausanne-time-machine/fr/lausanne-time-machine/) – are collaborating to digitalized the notebooks of Jean-Henri Polier de Vernand. 
 
