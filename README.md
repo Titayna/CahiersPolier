@@ -6,7 +6,7 @@ As part of the Master's degree in [Digital Humanities](https://www.unil.ch/lettr
 
 The results of the HTR process can be find [here]() <!-- AJOUTER LIEN RELATIF -->
 
-<summary>Summary</summary>
+## <summary>Summary</summary>
 - [Jean-Henri Polier de Vernand (1715-1791)](README.md?plain=3)
 
 
