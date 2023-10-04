@@ -35,6 +35,10 @@ Lausanne in 1715 and served there from 1754 until his death in 1791 as lieutenan
 
 In order to develop an automatic handwriting recognition model, we had to make a number of transcriptions of Polier de Vernand's notebooks in order to generate data for training the model. To do this, we used Transkribus, which allows us to transcribe documents free of charge and to analyse document layout in order to detect text segmentation.
 
+This data set must reflect a variety of page layouts, vocabulary and writing styles, either by selecting specific pages or by selecting pages at regular intervals. Thus, to build our data set for training our model, we made a selection both for specific pages in certain notebooks with particular features or the presence of a lot of numbers for example but also for certain pages at intervals of 10 pages.
+
+
+
 ### Sample 
 
 <!-- Mettre un exemple de reconnaissance des pages du cahiers  -->
