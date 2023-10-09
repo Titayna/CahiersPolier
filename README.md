@@ -92,7 +92,7 @@ The predicted data is then supplied in a text file for each notebook, which then
 > **Illustration II :** Extract from page 3 of notebook no. 93
 ![Extract from page 3 of notebook no. 93](Sample_2.png)
 
-> **Illustration III :** Result in a JSON file
+> **** Result in a JSON file
 ``` json
 [
     {
