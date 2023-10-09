@@ -18,7 +18,7 @@ Table of Contents
         * [Samples](#sample)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
 * [Results](#results)
-        * [JSON Files's nomenclature for referencing ](#json-files)
+    * [JSON Files's nomenclature for referencing ](#json-files)
 
 
 ## Jean-Henri Polier de Vernand (1715-1791)
@@ -49,6 +49,7 @@ This data set must reflect a variety of page layouts, vocabulary and writing sty
 | 060 | 10-20-30-40 | 155 | 10-20 |
 | 070 | 10 | 160 | 10-19-28-41 |
 | 080 | 10-30-50| 185 | 10-20 |
+Total: 40 digitised pages transcribed <sup><sup>(double page handwritten notebook)</sup></sup>
 
 
 
