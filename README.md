@@ -70,12 +70,15 @@ For this reason, we turned to the [*HTR-Flor++*](#htr-flor-by-arthur-flor) text 
 ### *HTR-Flor* by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
 
+<sup><sup>Example of transcription after learning from training data :</sup></sup>
 ![Example of transcription after learning from training data](Sample_1.png)
-<sub>Example of transcription after learning from training data</sub>
+
 
 
 ## From *HTR-Flor* to *JSON* 
 
+<sub>Extract from page 3 of notebook no. 93</sub>
+![Extract from page 3 of notebook no. 93](Sample_2.png)
 
 
 ``` json
@@ -87,9 +90,9 @@ For this reason, we turned to the [*HTR-Flor++*](#htr-flor-by-arthur-flor) text 
     }
 ]
 ```
+<sub>Result in a JSON file : </sub>
 
-![Extract from page 3 of notebook no. 93](Sample_2.png)
-<sub>Extract from page 3 of notebook no. 93</sub>
+
 
 #### JSON Files's nomenclature for referencing as a source 
 <!-- Explication des numéros de pages etc.  -->
