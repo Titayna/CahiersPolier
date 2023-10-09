@@ -8,7 +8,7 @@ This was a part of my Master degree in [Digital Humanities](https://www.unil.ch/
 
 This git presents both the results of this research and the methodology used to transform this valuable source of Lausanne's eighteenth-century history into a digital format.
 
-As part of our evaluation of this automatic handwriting recognition model, we assessed the Character Error Rate (CER). The CER measures the minimum number of character modification operations required to align a word with the ground truth. 
+As part of our evaluation of this automatic handwriting recognition model, we assessed the _Character Error Rate_ (CER). The CER measures the minimum number of character modification operations required to align a word with the ground truth. 
 
 Our achievement is highlighted by a **CER of just 8.78%**, showcasing the precision of our model in preserving the historical content. As a general guideline, a CER below 10% is considered usable, and below 5% is deemed very good, with the remaining errors typically attributed to rare or unknown words. This achievement underscores the efficacy of our approach in transcribing and conserving the invaluable insights embedded within these historical documents.
 
