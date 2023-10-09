@@ -15,6 +15,7 @@ Table of Contents
 * [Jean-Henri Polier de Vernand (1715-1791)](#jean-henri-polier-de-vernand-1715-1791)
 * [Methodology](#methodology)
     * [Training set with Transkribus](#training-set-with-transkribus)
+        *[Samples](#sa)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
 * [Results](#results)
 
@@ -37,7 +38,7 @@ In order to develop an automatic handwriting recognition model, we had to make a
 
 This data set must reflect a variety of page layouts, vocabulary and writing styles, either by selecting specific pages or by selecting pages at regular intervals. Thus, to build our data set for training our model, we made a selection both for specific pages in certain notebooks with particular features or the presence of a lot of numbers for example but also for certain pages at intervals of 10 pages.
 
-| Header 1 | Header 2 | Header 3 | Header 4 |
+| Notebook number : | Page(s): | Notebook number : | Page(s):  |
 |:---------:|:---------:|:---------:|:---------:|
 | Centered Cell 1 | Centered Cell 2 | Centered Cell 3 | Centered Cell 4 |
 | Centered Cell 5 | Centered Cell 6 | Centered Cell 7 | Centered Cell 8 |
@@ -48,9 +49,11 @@ This data set must reflect a variety of page layouts, vocabulary and writing sty
 
 <!-- Mettre un exemple de reconnaissance des pages du cahiers  -->
 
+
 ### HTR-Flor by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
 
 ## Results 
 
-
+#### JSON files  
+<!-- Explication des numéros de pages etc.  -->
