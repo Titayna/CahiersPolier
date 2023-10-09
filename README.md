@@ -65,6 +65,10 @@ At the start of this project, Transkribus seemed perfectly suited to the task of
 
 <!-- Mettre un exemple de reconnaissance des pages du cahiers  -->
 
+![Alt Text](Sample_1.png)
+
+
+Example of transcription after learning from training data
 
 ### HTR-Flor by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
