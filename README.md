@@ -82,7 +82,7 @@ Example of transcription after learning from training data
 <!-- Explication des numéros de pages etc.  -->
 
 
-```
+``` json
 [
 {
 "cahier_n": 91,
