@@ -59,19 +59,22 @@ This data set must reflect a variety of page layouts, vocabulary and writing sty
 
 At the start of this project, Transkribus seemed perfectly suited to the task of creating training data and using it to create a prediction model. However, since at least 2021, Transkribus has set a limit on the number of pages that can be transcribed free of charge, which meant that we were unable to cover the 26,300 pages written by Polier within a reasonable budget. The software currently offers the option of applying an HTR template to 500 handwritten pages free of charge, followed by a fixed price starting at €18 for 120 credits and €2,160 for 10,000 credits - 1 credit corresponding to 1 handwritten page.
 
-
+For this reason, we turned to the HTR-Flor++ text recognition model which, although not as easy to use for a user less accustomed to programming language - one of the main advantages of Transkribus - enabled us to obtain similar results. 
 
 #### Sample 
 
 <!-- Mettre un exemple de reconnaissance des pages du cahiers  -->
 
-![Alt Text](Sample_1.png)
+
+
+### HTR-Flor by Arthur Flor 
+<!-- Preentrainement sur Bentham Data Set -->
+
+![Example of transcription after learning from training data](Sample_1.png)
 
 
 Example of transcription after learning from training data
 
-### HTR-Flor by Arthur Flor 
-<!-- Preentrainement sur Bentham Data Set -->
 
 ## Results 
 
