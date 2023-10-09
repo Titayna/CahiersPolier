@@ -8,6 +8,11 @@ This was a part of my Master degree in [Digital Humanities](https://www.unil.ch/
 
 This git presents both the results of this research and the methodology used to transform this valuable source of Lausanne's eighteenth-century history into a digital format.
 
+As part of our evaluation of this automatic handwriting recognition model, we assessed the Character Error Rate (CER). The CER measures the minimum number of character modification operations required to align a word with the ground truth. 
+
+Our achievement is highlighted by a **CER of just 8.78%**, showcasing the precision of our model in preserving the historical content. As a general guideline, a CER below 10% is considered usable, and below 5% is deemed very good, with the remaining errors typically attributed to rare or unknown words. This achievement underscores the efficacy of our approach in transcribing and conserving the invaluable insights embedded within these historical documents.
+
+
 *The results of the HTR process can be find [here]().* <!-- AJOUTER LIEN RELATIF -->
 
 Table of Contents
@@ -35,7 +40,7 @@ Lausanne in 1715 and served there from 1754 until his death in 1791 as lieutenan
 
 ### Training set with Transkribus 
 
-In order to develop an automatic handwriting recognition model, we had to make a number of transcriptions of Polier de Vernand's notebooks in order to generate data for training the model. To do this, we used Transkribus, which allows us to transcribe documents free of charge and to analyse document layout in order to detect text segmentation.
+In order to develop an automatic handwriting recognition model, we had to make a number of transcriptions of Polier de Vernand's notebooks in order to generate data for training the model. To do this, we used [Transkribus](https://readcoop.eu/transkribus/), which allows us to transcribe documents free of charge and to analyse document layout in order to detect text segmentation.
 
 This data set must reflect a variety of page layouts, vocabulary and writing styles, either by selecting specific pages or by selecting pages at regular intervals. Thus, to build our data set for training our model, we made a selection both for specific pages in certain notebooks with particular features or the presence of a lot of numbers for example but also for certain pages at intervals of 10 pages.
 
@@ -51,6 +56,8 @@ This data set must reflect a variety of page layouts, vocabulary and writing sty
 | 080 | 10-30-50| 185 | 10-20 |
 
 <sup><sup>Total: 40 digitised pages transcribed (double page handwritten notebook)</sup></sup>
+
+At the start of this project, Transkribus seemed perfectly suited to the task of creating training data and using it to create a prediction model. However, since at least 2021, Transkribus has set a limit on the number of pages that can be transcribed free of charge, which meant that we were unable to cover the 26,300 pages written by Polier within a reasonable budget. The software currently offers the option of applying an HTR template to 500 handwritten pages free of charge, followed by a fixed price starting at €18 for 120 credits and €2,160 for 10,000 credits - 1 credit corresponding to 1 handwritten page.
 
 
 
