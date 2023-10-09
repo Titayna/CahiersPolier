@@ -73,7 +73,7 @@ For this reason, we turned to the [*HTR-Flor++*](#htr-flor-by-arthur-flor) text 
 ![Example of transcription after learning from training data](Sample_1.png)
 
 
-Example of transcription after learning from training data
+<sub><sub>Example of transcription after learning from training data</sub></sub>
 
 
 ## Results 
