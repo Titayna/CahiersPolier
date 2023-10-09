@@ -90,6 +90,8 @@ Example of transcription after learning from training data
 ]
 ```
 
+![Extract from page 3 of notebook no. 93](Sample_2.png)
+
 
 #### JSON Files's nomenclature for referencing as a source 
 <!-- Explication des numéros de pages etc.  -->
