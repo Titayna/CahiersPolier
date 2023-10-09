@@ -15,9 +15,10 @@ Table of Contents
 * [Jean-Henri Polier de Vernand (1715-1791)](#jean-henri-polier-de-vernand-1715-1791)
 * [Methodology](#methodology)
     * [Training set with Transkribus](#training-set-with-transkribus)
-        *[Samples](#sa)
+        * [Samples](#sample)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
 * [Results](#results)
+        * [JSON Files's nomenclature for referencing ](#json-files)
 
 
 ## Jean-Henri Polier de Vernand (1715-1791)
@@ -40,8 +41,14 @@ This data set must reflect a variety of page layouts, vocabulary and writing sty
 
 | Notebook number : | Page(s): | Notebook number : | Page(s):  |
 |:---------:|:---------:|:---------:|:---------:|
-| Centered Cell 1 | Centered Cell 2 | Centered Cell 3 | Centered Cell 4 |
-| Centered Cell 5 | Centered Cell 6 | Centered Cell 7 | Centered Cell 8 |
+| 001 | 4-5-6-49 | 090 | 10 |
+| 010 | 10-20 | 100 | 10-30-50 |
+| 020 | 4-5-6-7-8 | 110 | 8 |
+| 040 | 7-8-41-51 | 125 | 50 |
+| 050 | 10 | 145 | 20-30 |
+| 060 | 10-20-30-40 | 155 | 10-20 |
+| 070 | 10 | 160 | 10-19-28-41 |
+| 080 | 10-30-50| 185 | 10-20 |
 
 
 
