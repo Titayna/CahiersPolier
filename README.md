@@ -2,7 +2,7 @@
 
 Since 2021, the [Archives cantonales vaudoises (ACV)](https://www.vd.ch/toutes-les-autorites/archives-cantonales-vaudoises-acv) and the [Collège des Humanités Digitales (CDH)](https://www.epfl.ch/schools/cdh/fr/) at EPFL – more precisely the [Lausanne Time Machine project](https://www.epfl.ch/schools/cdh/lausanne-time-machine/fr/lausanne-time-machine/) – are collaborating to digitalized the notebooks of Jean-Henri Polier de Vernand. 
 
-As a master's thesis, we applied Handwritten Text Recognition (HTR) technology – using TensorFlow, [Transkribus](https://readcoop.eu/transkribus/) and [HTR-Flor](https://github.com/arthurflor23/handwritten-text-recognition) – to the 26'300 pages that make up the notebooks of Lausanne's bailiff lieutenant. 
+As a master's thesis, we applied Handwritten Text Recognition (HTR) technology – using *TensorFlow*, [*Transkribus*](https://readcoop.eu/transkribus/) and [*HTR-Flor*](https://github.com/arthurflor23/handwritten-text-recognition) – to the 26'300 pages that make up the notebooks of Lausanne's bailiff lieutenant. 
 
 This was a part of my Master degree in [Digital Humanities](https://www.unil.ch/lettres/fr/home/menuinst/formations/master-en-humanites-numeriques.html) and [History](https://www.unil.ch/hist/fr/home/menuinst/formations/maitrise-universitaire-1.html) at the University of Lausanne in Switzerland. 
 
@@ -20,7 +20,7 @@ Table of Contents
 * [Jean-Henri Polier de Vernand (1715-1791)](#jean-henri-polier-de-vernand-1715-1791)
 * [Methodology](#methodology)
     * [Training set with Transkribus](#training-set-with-transkribus)
-        * [Samples](#sample)
+        * [From *HTR-Flor* to *JSON*](#from-htr-flor-to-json)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
 * [Results](#results)
     * [JSON Files's nomenclature for referencing as a source](#json-filess-nomenclature-for-referencing-as-a-source)
@@ -61,20 +61,20 @@ At the start of this project, Transkribus seemed perfectly suited to the task of
 
 For this reason, we turned to the [*HTR-Flor++*](#htr-flor-by-arthur-flor) text recognition model which, although not as easy to use for a user less accustomed to programming language - one of the main advantages of Transkribus - enabled us to obtain similar results. 
 
-#### Sample 
+#### From *Transkribus* to *HTR-Flor*
 
 <!-- Mettre un exemple de reconnaissance des pages du cahiers  -->
 
 
 
-### HTR-Flor by Arthur Flor 
+### *HTR-Flor* by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
 
 ![Example of transcription after learning from training data](Sample_1.png)
 <sub>Example of transcription after learning from training data</sub>
 
 
-## Results 
+## From *HTR-Flor* to *JSON* 
 
 
 
