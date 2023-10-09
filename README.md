@@ -13,7 +13,7 @@ As part of our evaluation of this automatic handwriting recognition model, we as
 Our achievement is highlighted by a **CER of just 8.78%**, showcasing the precision of our model in preserving the historical content. As a general guideline, a CER below 10% is considered usable, and below 5% is deemed very good, with the remaining errors typically attributed to rare or unknown words. This achievement underscores the efficacy of our approach in transcribing and conserving the invaluable insights embedded within these historical documents.
 
 
-*The results of the HTR process can be find [here]().* <!-- AJOUTER LIEN RELATIF -->
+*The results of the HTR process can be find [here](polier_json).* 
 
 Table of Contents
 =================
@@ -23,7 +23,6 @@ Table of Contents
         * [From *HTR-Flor* to *JSON*](#from-htr-flor-to-json)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
 * [Results](#results)
-    * [JSON Files's nomenclature for referencing as a source](#json-filess-nomenclature-for-referencing-as-a-source)
 
 
 ## Jean-Henri Polier de Vernand (1715-1791)
@@ -68,8 +67,7 @@ It then goes back to each region of text detected on each page using layout anal
 
 Finally, partitions had to be created for the training, validation and test sets from a list of elements. The training set is used to train the model, the validation set is used to evaluate the model's performance and parameter settings during training, and the test set is used to evaluate the model's final performance once training and settings have been completed. In this case, the proportion is 10% for validation and 20% for testing, which means that the remaining 70% will be used for training.
 
-Here the code need to be change wheter you are creating a training set or if you are trying to 
-
+Handwriting recognition is then performed on the [script proposed by Arthur Flor de Sousa Neto](https://github.com/arthurflor23/handwritten-text-recognition/blob/master/src/tutorial.ipynb), which enables a handwritten text recognition model to be trained using TensorFlow - an open source machine learning and data processing library created by Google - on a GPU device that requires the use of Google Colab, an online platform offered by the company of the same name that enables high-level calculations to be performed for machine learning tasks.
 
 ### *HTR-Flor* by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
@@ -77,12 +75,22 @@ Here the code need to be change wheter you are creating a training set or if you
 > **Note:** Example of transcription after learning from training data
 ![Example of transcription after learning from training data](Sample_1.png)
 
+The script is used in two parts: one for training the model on the transcribed pages and one for inference for the rest of the notebooks. To develop the model, we also used data from the tranScriptorium Bentham project. This set of transcripts from the collection of Bentham manuscripts written by the philosopher of the same name were created as part of a competition organised at the ICFHR 2014 conference to evaluate the automatic recognition of handwritten texts.
+
+In our case of the notebooks of Jean Henri Polier de Vernand, the use of transcript data from the Bentham collection not only made it possible to obtain a lower CER, it is also useful since the lieutenant baillival sometimes wrote in English, whether in the case of writing reading notes on English newspapers, or when he did not wish to be able to be read by his servants. 
+
+During this model training phase, the script takes into account all the known data to learn how to recognise character patterns and set up a word dictionary, and evaluates the model by comparing the transcription provided with the values detected by the model. 
+
+Once the model has been trained, the inference phase of automatic text recognition takes place. To do this, we first had to assemble all of Polier de Vernand's notebooks into a format that could be recognised by the HTR-Flor++ script. Arthur Flor de Sousa Neto's program converts Transkribus data into hdf5 files, to which the trained model can then be applied. 
+
+The model is then used to predict the segments created by the layout analysis carried out on Transkribus and thus detect symbols, whether letters or punctuation. In this way, we were able to predict the entirety of the notebooks using the model trained on the transcriptions we had made, as well as the Bentham model.
+
+The predicted data is then supplied in a text file for each notebook, which then needs to be put back into the order of the detections made by Transkribus. To do this, we used the Python script [From_HTR_Flor_to_JSON](From_HTR_Flor_to_JSON.ipynb). It allows us to create JSON files containing the predictions of the signatures in continuous text, while retaining the information about the signature number and the page number of the transcription. The order is reconstituted thanks to the file created when using the script presented in Appendix I and therefore the analysis carried out by Transkribus. 
 
 ## From *HTR-Flor* to *JSON* 
 
 > **Note:** Extract from page 3 of notebook no. 93
 ![Extract from page 3 of notebook no. 93](Sample_2.png)
-
 
 > **Note:** Result in a JSON file
 ``` json
@@ -95,7 +103,6 @@ Here the code need to be change wheter you are creating a training set or if you
 ]
 ```
 
+The notebooks are then available on this repository in [JSON format](polier_json). A file has been created for each notebook, based on the page number assigned by the [Archives cantonales vaudoises (ACV)](https://www.vd.ch/toutes-les-autorites/archives-cantonales-vaudoises-acv). Information about the transcribed page is available for each one. These page numbers correspond to the PDF files resulting from the digitisation of the Polier notebooks. 
 
-#### JSON Files's nomenclature for referencing as a source 
-<!-- Explication des numéros de pages etc.  -->
 
