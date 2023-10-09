@@ -125,3 +125,13 @@ ola \n dim: 2 mars a 6 h 1/2 du soir, mylard apres \n "
 
 #### JSON Files's nomenclature for referencing as a source 
 <!-- Explication des numéros de pages etc.  -->
+
+``` json
+[
+    {
+        "cahier_n": 91,
+        "page_n": 3,
+        "transcription": "mercredi 1 avril ; 1778 \n du mercredi 1er avril ;, \n mon frere a la haye; \n jattendois aver bien de l'impatience mon cher frere \n votre lettre du 7 du mois passe, je suis afflige plus \n que je ne puis vous le dine des tristes nouvelles que \n v lus donnez de l'etat de votre sante, je sousse in \n finiment de ves maux & prie le ciel avec ardeur de \n les adoucir, je vais lanquir jusqu'a ce que vous avi \n siez de votre arrivee a la haye. vous demand. \n rais la prace de me faire ecrire par le secretaire de \n mr de, pour peu qu vous soyez fatique d't \n vaquer vous meme ; je voudrois pouvoir esperer \n que la douce chaleur du printemps donnera un \n peu de jeu a ves membres & dissipera vos fluxions \n mais lorsque le vent d'est soufler a avec riguenr \n n'y aura t'il pas moyen de vous dispenser d'etre \n present a ces longr exercices vous avez ete si \n souvent de tour qu'il seroit juste de laisser une \n partie du travail a ceux qui ont moins apereque \n vous ; nous venons d'avoir une commolion \n agreable & triste dans la parente; la fille de mr. le \n don, aimable, douee de beaucoup desprit & de \n pande tulenr a suljuque depuis quelques mois \n de sentimens profonds destime & d'amour un jeu \n n: seigneur anglais pair d'irlande sous le titre \n de gatxay, aye de 20 ans, ayant avec lui mne \n espece de gouverneur du pays, momme le minf \n combe; e jeune seigneur pour legitimer se \n passion ; parl. sacrement il s'est fait ecouter \n en a voulu excopter de sa minorite on a miste \n sur le consentement de les parant, l'epousema op \n pes qu'il ne pouvoit sarreter a ces lonqueurs \n qu'il etois trop emzlamme pour attendre,; il a \n bien d illu ceder a des instances si fortes ; les \n cennes ces velles qui se sont melees de cette \n faure n'ont pas trop bien combine taut ola \n dim: 2 mars a 6 h 1/2 du soir, mylard agmes \n "
+    }
+]
+```
