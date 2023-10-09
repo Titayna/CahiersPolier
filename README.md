@@ -23,7 +23,7 @@ Table of Contents
         * [Samples](#sample)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
 * [Results](#results)
-    * [JSON Files's nomenclature for referencing ](#json-files)
+    * [JSON Files's nomenclature for referencing as a source](#json-filess-nomenclature-for-referencing-as-a-source)
 
 
 ## Jean-Henri Polier de Vernand (1715-1791)
@@ -78,8 +78,6 @@ Example of transcription after learning from training data
 
 ## Results 
 
-#### JSON files  
-<!-- Explication des numéros de pages etc.  -->
 
 
 ``` json
@@ -123,3 +121,7 @@ ola \n dim: 2 mars a 6 h 1/2 du soir, mylard apres \n "
 }
 ]
 ```
+
+
+#### JSON Files's nomenclature for referencing as a source 
+<!-- Explication des numéros de pages etc.  -->
