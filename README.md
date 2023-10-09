@@ -71,9 +71,7 @@ For this reason, we turned to the [*HTR-Flor++*](#htr-flor-by-arthur-flor) text 
 <!-- Preentrainement sur Bentham Data Set -->
 
 ![Example of transcription after learning from training data](Sample_1.png)
-
-
-<sub><sub>Example of transcription after learning from training data</sub></sub>
+<sub>Example of transcription after learning from training data</sub>
 
 
 ## Results 
@@ -91,7 +89,7 @@ For this reason, we turned to the [*HTR-Flor++*](#htr-flor-by-arthur-flor) text 
 ```
 
 ![Extract from page 3 of notebook no. 93](Sample_2.png)
-
+<sub>Extract from page 3 of notebook no. 93</sub>
 
 #### JSON Files's nomenclature for referencing as a source 
 <!-- Explication des numéros de pages etc.  -->
