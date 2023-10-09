@@ -43,7 +43,7 @@ In order to develop an automatic handwriting recognition model, we had to make a
 
 This data set must reflect a variety of page layouts, vocabulary and writing styles, either by selecting specific pages or by selecting pages at regular intervals. Thus, to build our data set for training our model, we made a selection both for specific pages in certain notebooks with particular features or the presence of a lot of numbers for example but also for certain pages at intervals of 10 pages.
 
-> **Note:** Total: 40 digitised pages transcribed (double page handwritten notebook)
+> **Table I :** Total: 40 digitised pages transcribed (double page handwritten notebook)
 
 | Notebook number : | Page(s): | Notebook number : | Page(s):  |
 |:---------:|:---------:|:---------:|:---------:|
@@ -72,7 +72,7 @@ Handwriting recognition is then performed on the [script proposed by Arthur Flor
 ### *HTR-Flor* by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
 
-> **Note:** Example of transcription after learning from training data
+> **Illustration I :** Example of transcription after learning from training data
 ![Example of transcription after learning from training data](Sample_1.png)
 
 The script is used in two parts: one for training the model on the transcribed pages and one for inference for the rest of the notebooks. To develop the model, we also used data from the tranScriptorium Bentham project. This set of transcripts from the collection of Bentham manuscripts written by the philosopher of the same name were created as part of a competition organised at the ICFHR 2014 conference to evaluate the automatic recognition of handwritten texts.
@@ -89,10 +89,10 @@ The predicted data is then supplied in a text file for each notebook, which then
 
 ## From *HTR-Flor* to *JSON* 
 
-> **Note:** Extract from page 3 of notebook no. 93
+> **Illustration II :** Extract from page 3 of notebook no. 93
 ![Extract from page 3 of notebook no. 93](Sample_2.png)
 
-> **Note:** Result in a JSON file
+> **Illustration III :** Result in a JSON file
 ``` json
 [
     {
