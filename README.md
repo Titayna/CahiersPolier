@@ -13,7 +13,7 @@ As part of our evaluation of this automatic handwriting recognition model, we as
 Our achievement is highlighted by a **CER of just 8.78%**, showcasing the precision of our model in preserving the historical content. As a general guideline, a CER below 10% is considered usable, and below 5% is deemed very good, with the remaining errors typically attributed to rare or unknown words. This achievement underscores the efficacy of our approach in transcribing and conserving the invaluable insights embedded within these historical documents.
 
 
-> *The results of the HTR process can be find [here](polier_json).* 
+> *The results of the HTR process can be find [here](polier_notebook_json).* 
 
 Table of Contents
 =================
