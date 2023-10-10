@@ -20,10 +20,8 @@ Table of Contents
 * [Jean-Henri Polier de Vernand (1715-1791)](#jean-henri-polier-de-vernand-1715-1791)
 * [Methodology](#methodology)
     * [Training set with Transkribus](#training-set-with-transkribus)
-        * [From *HTR-Flor* to *JSON*](#from-htr-flor-to-json)
     * [HTR-Flor by Arthur Flor](#htr-flor-by-arthur-flor)
-* [Results](#results)
-
+* [Results](#from-htr-flor-to-json)
 
 ## Jean-Henri Polier de Vernand (1715-1791)
 Lausanne in 1715 and served there from 1754 until his death in 1791 as lieutenant baillival of Lausanne, thus acting as a substitute for the Bernese bailli [^1]. A member of two Lausanne Councils, the Baillivale Court, the Court of Fiefs, the Criminal Court of the Castle, the Court of the Chapter and a member of the Court of the Rue de Bourg through his status as a landowner, he was one of the most important figures in Lausanne society of his time[^2]. Moreover, Polier kept numerous notebooks from 1754 until his death, in which he methodically transcribed his personal day-to-day life on more than 26,300 pages, thereby creating one of the most important documents in the history of Lausanne[^3].
