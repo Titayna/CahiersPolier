@@ -90,7 +90,7 @@ The predicted data is then supplied in a text file for each notebook, which then
 ## From *HTR-Flor* to *JSON* 
 
 > **Illustration II :** Extract from page 3 of notebook no. 93
-![Extract from page 3 of notebook no. 93](Sample_2.png)
+![Extract from page 3 of notebook no. 91](Sample_2.png)
 
 > Result in a JSON file
 ``` json
