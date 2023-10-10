@@ -73,7 +73,7 @@ Handwriting recognition is then performed on the [script proposed by Arthur Flor
 > **Illustration I :** Example of transcription after learning from training data
 ![Example of transcription after learning from training data](Sample_1.png)
 
-The script is used in two parts: one for training the model on the transcribed pages and one for inference for the rest of the notebooks. To develop the model, we also used data from the tranScriptorium Bentham project. This set of transcripts from the collection of Bentham manuscripts written by the philosopher of the same name were created as part of a competition organised at the ICFHR 2014 conference to evaluate the automatic recognition of handwritten texts.
+The script is used in two parts: one for training the model on the transcribed pages and one for inference for the rest of the notebooks. To develop the model, we also used data from the [*tranScriptorium Bentham project*](https://www.ucl.ac.uk/bentham-project/transcribe-bentham). This set of transcripts from the collection of Bentham manuscripts written by the philosopher of the same name were created as part of a competition organised at the ICFHR 2014 conference to evaluate the automatic recognition of handwritten texts.
 
 In our case of the notebooks of Jean Henri Polier de Vernand, the use of transcript data from the Bentham collection not only made it possible to obtain a lower CER, it is also useful since the lieutenant baillival sometimes wrote in English, whether in the case of writing reading notes on English newspapers, or when he did not wish to be able to be read by his servants. 
 
