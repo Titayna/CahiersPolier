@@ -13,7 +13,7 @@ As part of our evaluation of this automatic handwriting recognition model, we as
 Our achievement is highlighted by a **CER of just 8.78%**, showcasing the precision of our model in preserving the historical content. As a general guideline, a CER below 10% is considered usable, and below 5% is deemed very good, with the remaining errors typically attributed to rare or unknown words. This achievement underscores the efficacy of our approach in transcribing and conserving the invaluable insights embedded within these historical documents.
 
 
-*The results of the HTR process can be find [here](polier_json).* 
+> *The results of the HTR process can be find [here](polier_json).* 
 
 Table of Contents
 =================
@@ -28,7 +28,7 @@ Table of Contents
 ## Jean-Henri Polier de Vernand (1715-1791)
 Lausanne in 1715 and served there from 1754 until his death in 1791 as lieutenant baillival of Lausanne, thus acting as a substitute for the Bernese bailli [^1]. A member of two Lausanne Councils, the Baillivale Court, the Court of Fiefs, the Criminal Court of the Castle, the Court of the Chapter and a member of the Court of the Rue de Bourg through his status as a landowner, he was one of the most important figures in Lausanne society of his time[^2]. Moreover, Polier kept numerous notebooks from 1754 until his death, in which he methodically transcribed his personal day-to-day life on more than 26,300 pages, thereby creating one of the most important documents in the history of Lausanne[^3].
 
-*For more information, a copy of my master’s thesis in French can be found [here](Master_thesis_Kauffmann_2023.pdf).* 
+> *For more information, a copy of my master’s thesis in French can be found [here](Master_thesis_Kauffmann_2023.pdf).* 
 
 [^1]: Abetel Emmanuel, « Polier de Vernand, Jean-Henri », [hls-dhs-dss.ch](https://hls-dhs-dss.ch/articles/017839/2009-04-20/), consulté le 03.03.2023.
 [^2]: Morren Pierre, La vie lausannoise au XVIIIe siècle: d’après Jean-Henri Polier de Vernand, lieutenant baillival, Genève : Labor et Fides, 1970
@@ -43,7 +43,7 @@ In order to develop an automatic handwriting recognition model, we had to make a
 
 This data set must reflect a variety of page layouts, vocabulary and writing styles, either by selecting specific pages or by selecting pages at regular intervals. Thus, to build our data set for training our model, we made a selection both for specific pages in certain notebooks with particular features or the presence of a lot of numbers for example but also for certain pages at intervals of 10 pages.
 
-> **Note:** Total: 40 digitised pages transcribed (double page handwritten notebook)
+> **Table I :** Total: 40 digitised pages transcribed (double page handwritten notebook)
 
 | Notebook number : | Page(s): | Notebook number : | Page(s):  |
 |:---------:|:---------:|:---------:|:---------:|
@@ -72,7 +72,7 @@ Handwriting recognition is then performed on the [script proposed by Arthur Flor
 ### *HTR-Flor* by Arthur Flor 
 <!-- Preentrainement sur Bentham Data Set -->
 
-> **Note:** Example of transcription after learning from training data
+> **Illustration I :** Example of transcription after learning from training data
 ![Example of transcription after learning from training data](Sample_1.png)
 
 The script is used in two parts: one for training the model on the transcribed pages and one for inference for the rest of the notebooks. To develop the model, we also used data from the tranScriptorium Bentham project. This set of transcripts from the collection of Bentham manuscripts written by the philosopher of the same name were created as part of a competition organised at the ICFHR 2014 conference to evaluate the automatic recognition of handwritten texts.
@@ -89,10 +89,10 @@ The predicted data is then supplied in a text file for each notebook, which then
 
 ## From *HTR-Flor* to *JSON* 
 
-> **Note:** Extract from page 3 of notebook no. 93
+> **Illustration II :** Extract from page 3 of notebook no. 93
 ![Extract from page 3 of notebook no. 93](Sample_2.png)
 
-> **Note:** Result in a JSON file
+> Result in a JSON file
 ``` json
 [
     {
